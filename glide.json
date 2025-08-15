@@ -1,0 +1,15 @@
+{
+  "name": "Appel API PDF Perso",
+  "description": "Appelle notre API personnelle sur Vercel pour créer un PDF.",
+  "author": "Gora292",
+  "params": [
+    {
+      "name": "html_content",
+      "displayName": "Contenu HTML du PDF",
+      "type": "string"
+    }
+  ],
+  "result": {
+    "type": "string"
+  }
+}
