@@ -1,12 +1,12 @@
 {
   "produit": {
-    "nom": "Zenith Task Manager ",
+    "nom": "Éveil des Andes",
     "caracteristiques": [
-      "Tableaux de bord collaboratifs en temps réel",
-      "Intégration avec Slack, Google Calendar et Figma",
-      "Suivi du temps automatisé par tâche",
-      "Rapports de productivité hebdomadaires par IA"
+      "Café 100% Arabica du Pérou",
+      "Torréfaction artisanale à Dakar",
+      "Notes de dégustation : chocolat noir, agrumes, noisette",
+      "Certifié agriculture biologique"
     ],
-    "public_cible": "Équipes de startups et agences créatives"
+    "public_cible": "Amateurs de café de spécialité et consommateurs exigeants"
   }
 }
