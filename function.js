@@ -14,13 +14,12 @@ window.function = async function (jsonData, githubToken, repoOwner, repoName, fi
 
     // --- FONCTION POUR ATTENDRE LA RÉPONSE ---
     async function pollForResponse() {
-        // ▼▼▼ LA LIGNE MODIFIÉE ▼▼▼
         const baseUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${responsePath}`;
         let attempts = 0;
-        const maxAttempts = 15;
+        const maxAttempts = 15; // Attendre au maximum 30 secondes
         
         while (attempts < maxAttempts) {
-            // Ajout d'un paramètre unique pour déjouer le cache
+            // ▼▼▼ CETTE LIGNE EST LA CLÉ : ELLE FORCE LE RAFRAÎCHISSEMENT ▼▼▼
             const urlWithCacheBust = `${baseUrl}?t=${new Date().getTime()}`;
             
             try {
