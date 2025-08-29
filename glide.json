@@ -1,15 +1,16 @@
-{
-  "name": "Appel API PDF Perso",
-  "description": "Appelle notre API personnelle sur Vercel pour créer un PDF.",
-  "author": "Gora292",
-  "params": [
+[
     {
-      "name": "html_content",
-      "displayName": "Contenu HTML du PDF",
-      "type": "string"
+        "kind": "column",
+        "name": "GitHub Webhook Trigger",
+        "description": "Sends JSON data to a GitHub repo to trigger a webhook.",
+        "author": "Goraskills",
+        "params": [
+            { "name": "jsonData", "displayName": "JSON Data", "type": "string" },
+            { "name": "githubToken", "displayName": "GitHub Token (PAT)", "type": "string" },
+            { "name": "repoOwner", "displayName": "Repository Owner", "type": "string" },
+            { "name": "repoName", "displayName": "Repository Name", "type": "string" },
+            { "name": "filePath", "displayName": "File Path in Repo", "type": "string" }
+        ],
+        "result": { "type": "string" }
     }
-  ],
-  "result": {
-    "type": "string"
-  }
-}
+]
