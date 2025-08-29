@@ -13,13 +13,13 @@ window.function = async function (jsonData, githubToken, repoOwner, repoName, fi
     }
 
     // --- FONCTION POUR ATTENDRE LA RÉPONSE ---
-    async function pollForResponse() {
+    async function pollForResponse(initialSha) {
         const baseUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${responsePath}`;
         let attempts = 0;
-        const maxAttempts = 15; // Attendre au maximum 30 secondes
+        // ▼▼▼ MODIFICATION 1 : On attend maintenant jusqu'à 60 secondes ▼▼▼
+        const maxAttempts = 20; 
         
         while (attempts < maxAttempts) {
-            // ▼▼▼ CETTE LIGNE EST LA CLÉ : ELLE FORCE LE RAFRAÎCHISSEMENT ▼▼▼
             const urlWithCacheBust = `${baseUrl}?t=${new Date().getTime()}`;
             
             try {
@@ -30,19 +30,31 @@ window.function = async function (jsonData, githubToken, repoOwner, repoName, fi
 
                 if (res.ok) {
                     const data = await res.json();
-                    const content = decodeURIComponent(escape(atob(data.content)));
-                    return `Réponse reçue: ${content}`;
+                    // ▼▼▼ MODIFICATION 2 : On accepte la réponse que si elle est NOUVELLE ▼▼▼
+                    if (data.sha !== initialSha) {
+                        const content = decodeURIComponent(escape(atob(data.content)));
+                        return `Réponse reçue: ${content}`;
+                    }
                 }
             } catch (error) { /* Ignorer les erreurs */ }
             
             attempts++;
-            await new Promise(resolve => setTimeout(resolve, 2000));
+            // ▼▼▼ MODIFICATION 3 : On attend 3 secondes entre chaque vérification ▼▼▼
+            await new Promise(resolve => setTimeout(resolve, 3000));
         }
-        return "Erreur: Le délai d'attente pour la réponse a été dépassé.";
+        return "Erreur: Le délai d'attente pour la réponse a été dépassé (60 secondes). Le workflow est peut-être trop long.";
     }
 
 
-    // --- 1. ENVOYER LA DONNÉE INITIALE ---
+    // --- 1. OBTENIR L'IDENTIFIANT DE L'ANCIENNE RÉPONSE ---
+    let initialResponseSha;
+    try {
+        const initialResponse = await fetch(`${`https://api.github.com/repos/${owner}/${repo}/contents/${responsePath}`}?t=${new Date().getTime()}`, { headers: { 'Authorization': `token ${token}` }});
+        if (initialResponse.ok) initialResponseSha = (await initialResponse.json()).sha;
+    } catch(e) { /* Le fichier n'existe probablement pas, c'est ok */ }
+
+
+    // --- 2. ENVOYER LA DONNÉE INITIALE ---
     const initialUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${path}`;
     const contentEncoded = btoa(unescape(encodeURIComponent(json)));
 
@@ -69,8 +81,8 @@ window.function = async function (jsonData, githubToken, repoOwner, repoName, fi
             return `Erreur GitHub: ${errorResult.message}`;
         }
 
-        // --- 2. ATTENDRE LA RÉPONSE ---
-        return await pollForResponse();
+        // --- 3. ATTENDRE LA NOUVELLE RÉPONSE ---
+        return await pollForResponse(initialResponseSha);
 
     } catch (error) {
         return `Erreur de Connexion: ${error.message}`;
