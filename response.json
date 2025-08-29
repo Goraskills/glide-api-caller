@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Zenith Flow : Le Catalyseur de Productivité pour Équipes Innovantes",
-  "slogan": "L'efficacité en équipe, enfin simple.",
-  "description": "Zenith Flow est la solution ultime pour les équipes de startups et agences créatives souhaitant maximiser leur efficacité. Il centralise la gestion de projet, fluidifie la collaboration en temps réel et offre une visibilité inégalée sur l'avancement des tâches. Transformez vos workflows complexes en succès palpables, tout en libérant le potentiel créatif de votre équipe.",
+  "nom_marketing": "Appartement F3 d'Exception : Le Cocon Urbain Idéal en Centre-Ville",
+  "slogan": "Vivez au Cœur de la Ville, Respirez la Sérénité.",
+  "description": "Découvrez cet appartement F3 spacieux de 75m², idéalement situé en plein centre-ville, offrant un cadre de vie exceptionnel pour couples ou petites familles. Profitez de son grand salon lumineux, de sa cuisine moderne entièrement équipée et de son balcon privatif avec une vue apaisante sur le parc. Le 5ème étage avec ascenseur assure un confort optimal, le tout à deux pas de toutes les commodités urbaines.",
   "arguments_cles": [
-    "Boostez la synergie d'équipe avec des tableaux de bord collaboratifs en temps réel, garantissant que chacun est aligné et informé, où qu'il soit.",
-    "Intégrez vos outils préférés (Slack, Google Calendar, Figma) pour un workflow fluide et ininterrompu, éliminant les pertes de temps et la confusion.",
-    "Optimisez votre temps et vos ressources grâce au suivi automatisé des tâches et à des rapports de productivité IA, pour des décisions éclairées et une croissance continue."
+    "Un espace de vie généreux de 75m² avec deux chambres confortables, pensé pour votre bien-être et celui de votre famille.",
+    "Profitez d'un grand salon baigné de lumière naturelle et d'une cuisine moderne entièrement équipée, parfaits pour la vie quotidienne et les moments de convivialité.",
+    "Un balcon privatif offrant une vue imprenable sur le parc, combinant la sérénité de la nature avec l'effervescence du centre-ville, accessible facilement grâce à l'ascenseur."
   ],
   "email_promo": {
-    "objet": "Votre Productivité Réinventée : Découvrez Zenith Flow !",
-    "corps": "Chères équipes créatives et startups innovantes, nous savons que la gestion de projet peut être un défi. C'est pourquoi nous sommes ravis de vous présenter Zenith Flow, la plateforme conçue pour transformer votre façon de travailler. Dites adieu aux silos et bonjour à la collaboration intuitive, au suivi intelligent et à des insights basés sur l'IA qui propulseront vos projets vers de nouveaux sommets. Prêt à optimiser chaque seconde ?"
+    "objet": "Découvrez Votre Nouveau F3 d'Exception en Centre-Ville avec Vue Parc !",
+    "corps": "Nous sommes ravis de vous présenter notre nouvel appartement F3 de 75m², idéalement niché au cœur du centre-ville. Avec ses deux chambres, son grand salon lumineux, sa cuisine moderne et son balcon offrant une vue imprenable sur le parc, cet espace est parfait pour concilier vie urbaine et confort. Ne manquez pas cette opportunité unique de trouver votre nouveau chez-vous."
   }
 }
