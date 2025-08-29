@@ -1,6 +1,12 @@
 {
-  "nom": "Sylla",
-  "prenom": "Gora",
-  "commande_id": "DBD12345",
-  "montant": 49.99
+  "produit": {
+    "nom": "Casque Audio 'Aura'",
+    "caracteristiques": [
+      "Réduction de bruit active",
+      "Autonomie de 40h",
+      "Bluetooth 5.2",
+      "Design pliable et léger"
+    ],
+    "public_cible": "Jeunes professionnels et voyageurs fréquents"
+  }
 }
