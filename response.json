@@ -1,1 +1,14 @@
-{   "status": "succes",   "message": "Les données ont été traitées par n8n." }
+{
+  "nom_marketing": "Casque Audio Aura Pro : Votre Sanctuaire Sonore Portable",
+  "slogan": "Silence Absolu, Son Immersif, Liberté Sans Fil.",
+  "description": "Découvrez le Casque Audio Aura Pro, conçu pour les jeunes professionnels et les voyageurs exigeants. Plongez dans un monde de silence grâce à sa réduction de bruit active de pointe, et profitez de votre musique ou de vos appels jusqu'à 40 heures sans interruption. Son design pliable et léger assure un confort optimal et une portabilité inégalée, transformant chaque trajet en une expérience sonore immersive.",
+  "arguments_cles": [
+    "Éliminez les distractions avec la réduction de bruit active, parfaite pour la concentration au bureau ou la tranquillité en voyage.",
+    "Profitez de 40 heures d'autonomie pour des sessions d'écoute prolongées, idéal pour les longs vols ou les journées de travail intenses sans recharger.",
+    "Son design pliable et ultra-léger garantit un confort exceptionnel et se glisse facilement dans votre sac, compagnon idéal de toutes vos aventures."
+  ],
+  "email_promo": {
+    "objet": "Lancez-vous dans l'Expérience Aura Pro : Silence, Son et Liberté !",
+    "corps": "Préparez-vous à redéfinir votre expérience audio. Le Casque Audio Aura Pro arrive pour transformer vos trajets et vos sessions de travail en moments de pure évasion. Avec sa réduction de bruit avancée et une autonomie record, il est le partenaire idéal pour les jeunes professionnels et les voyageurs en quête de performance et de tranquillité. Soyez parmi les premiers à le découvrir !"
+  }
+}
