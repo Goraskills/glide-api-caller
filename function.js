@@ -14,20 +14,23 @@ window.function = async function (jsonData, githubToken, repoOwner, repoName, fi
 
     // --- FONCTION POUR ATTENDRE LA RÉPONSE ---
     async function pollForResponse() {
-        const responseUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${responsePath}`;
+        // ▼▼▼ LA LIGNE MODIFIÉE ▼▼▼
+        const baseUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${responsePath}`;
         let attempts = 0;
         const maxAttempts = 15;
         
         while (attempts < maxAttempts) {
+            // Ajout d'un paramètre unique pour déjouer le cache
+            const urlWithCacheBust = `${baseUrl}?t=${new Date().getTime()}`;
+            
             try {
-                const res = await fetch(responseUrl, {
+                const res = await fetch(urlWithCacheBust, {
                     method: 'GET',
                     headers: { 'Authorization': `token ${token}` }
                 });
 
                 if (res.ok) {
                     const data = await res.json();
-                    // ▼▼▼ LA LIGNE MODIFIÉE ▼▼▼
                     const content = decodeURIComponent(escape(atob(data.content)));
                     return `Réponse reçue: ${content}`;
                 }
