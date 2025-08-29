@@ -5,7 +5,7 @@ window.function = async function (jsonData, githubToken, repoOwner, repoName, fi
     const owner = repoOwner.value;
     const repo = repoName.value;
     const path = filePath.value ?? "data.json";
-    const responsePath = "response.json"; // Le fichier que nous allons attendre
+    const responsePath = "response.json";
 
     // --- Basic validation ---
     if (!token || !owner || !repo || !json) {
@@ -16,7 +16,7 @@ window.function = async function (jsonData, githubToken, repoOwner, repoName, fi
     async function pollForResponse() {
         const responseUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${responsePath}`;
         let attempts = 0;
-        const maxAttempts = 15; // Attendre au maximum 30 secondes (15 x 2s)
+        const maxAttempts = 15;
         
         while (attempts < maxAttempts) {
             try {
@@ -27,21 +27,20 @@ window.function = async function (jsonData, githubToken, repoOwner, repoName, fi
 
                 if (res.ok) {
                     const data = await res.json();
-                    // Le contenu est en Base64, il faut le décoder
-                    const content = atob(data.content);
+                    // ▼▼▼ LA LIGNE MODIFIÉE ▼▼▼
+                    const content = decodeURIComponent(escape(atob(data.content)));
                     return `Réponse reçue: ${content}`;
                 }
-            } catch (error) { /* Ignorer les erreurs de réseau pendant le polling */ }
+            } catch (error) { /* Ignorer les erreurs */ }
             
             attempts++;
-            // Attendre 2 secondes avant de réessayer
             await new Promise(resolve => setTimeout(resolve, 2000));
         }
         return "Erreur: Le délai d'attente pour la réponse a été dépassé.";
     }
 
 
-    // --- 1. ENVOYER LA DONNÉE INITIALE (votre code existant) ---
+    // --- 1. ENVOYER LA DONNÉE INITIALE ---
     const initialUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${path}`;
     const contentEncoded = btoa(unescape(encodeURIComponent(json)));
 
@@ -68,7 +67,7 @@ window.function = async function (jsonData, githubToken, repoOwner, repoName, fi
             return `Erreur GitHub: ${errorResult.message}`;
         }
 
-        // --- 2. SI L'ENVOI RÉUSSIT, COMMENCER À ATTENDRE LA RÉPONSE ---
+        // --- 2. ATTENDRE LA RÉPONSE ---
         return await pollForResponse();
 
     } catch (error) {
