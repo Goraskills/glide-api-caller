@@ -1,12 +1,12 @@
 {
   "produit": {
-    "nom": "Casque Audio 'Aura'",
+    "nom": "Zenith Task Manager",
     "caracteristiques": [
-      "Réduction de bruit active",
-      "Autonomie de 40h",
-      "Bluetooth 5.2",
-      "Design pliable et léger"
+      "Tableaux de bord collaboratifs en temps réel",
+      "Intégration avec Slack, Google Calendar et Figma",
+      "Suivi du temps automatisé par tâche",
+      "Rapports de productivité hebdomadaires par IA"
     ],
-    "public_cible": "Jeunes professionnels et voyageurs fréquents"
+    "public_cible": "Équipes de startups et agences créatives"
   }
 }
