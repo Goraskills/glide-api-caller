@@ -1,12 +1,13 @@
 {
   "produit": {
-    "nom": "Éveil des Andes",
+    "nom": "Appartement F3 - Centre-ville",
     "caracteristiques": [
-      "Café 100% Arabica du Pérou",
-      "Torréfaction artisanale à Dakar",
-      "Notes de dégustation : chocolat noir, agrumes, noisette",
-      "Certifié agriculture biologique"
+      "Superficie de 75m²",
+      "2 chambres, 1 grand salon lumineux",
+      "Cuisine équipée et moderne",
+      "Balcon avec vue sur le parc",
+      "5ème étage avec ascenseur"
     ],
-    "public_cible": "Amateurs de café de spécialité et consommateurs exigeants"
+    "public_cible": "Couples ou petites familles cherchant à vivre en centre-ville"
   }
 }
