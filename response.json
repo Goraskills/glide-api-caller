@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Gora : L'Assistant Financier Intelligent pour Indépendants et PME",
-  "slogan": "Simplifiez votre gestion, optimisez votre temps.",
-  "description": "Conçue spécifiquement pour les freelances et TPE/PME, Gora est la plateforme intuitive qui transforme votre gestion financière en un processus simple et rapide. Fini le stress des papiers et des calculs : suivez vos finances en temps réel, automatisez vos tâches et consacrez votre énergie à faire grandir votre entreprise.",
+  "nom_marketing": "FlowCompta : Votre Assistant Financier Intelligent",
+  "slogan": "La gestion financière simplifiée, pour que vous puissiez vous concentrer sur l'essentiel.",
+  "description": "Découvrez FlowCompta, la solution tout-en-un conçue spécifiquement pour les freelances et TPE/PME désireux de maîtriser leur gestion administrative sans effort. Notre plateforme transforme la complexité des devis, factures et suivi bancaire en une expérience fluide et automatisée. Gagnez un temps précieux, obtenez une vision claire de votre trésorerie en temps réel et simplifiez la collaboration avec votre expert-comptable, pour une sérénité financière retrouvée.",
   "arguments_cles": [
-    "**Gagnez un temps précieux** : Créez devis et factures professionnels en moins d'une minute, et soyez payé plus rapidement.",
-    "**Visibilité financière complète** : Synchronisation bancaire automatique et tableau de bord en temps réel pour une maîtrise parfaite de votre trésorerie.",
-    "**Collaboration expert-comptable simplifiée** : Exportez tous vos documents en un clic, garantissant une préparation comptable rapide et sans erreur."
+    "**Gain de temps immédiat :** Créez devis et factures professionnels en moins d'une minute et libérez-vous des tâches répétitives.",
+    "**Maîtrise financière en temps réel :** Synchronisation bancaire automatique et tableau de bord intuitif pour une vision précise et actualisée de vos finances.",
+    "**Collaboration expert-comptable sans effort :** Exportez tous vos documents en un clic, garantissant conformité et fluidité pour votre expert-comptable."
   ],
   "email_promo": {
-    "objet": "Gora : Révolutionnez votre gestion financière et gagnez du temps !",
-    "corps": "Découvrez Gora, la solution innovante conçue pour les freelances et TPE/PME qui souhaitent dire adieu aux tracas administratifs. Avec Gora, créez vos devis et factures en un éclair, suivez vos finances en temps réel et simplifiez la collaboration avec votre expert-comptable. Profitez d'une gestion plus fluide et retrouvez du temps pour votre activité."
+    "objet": "Révolutionnez votre gestion financière avec FlowCompta !",
+    "corps": "Chers entrepreneurs, marre de la paperasse et des tracas administratifs ? Découvrez FlowCompta, la solution intelligente qui simplifie votre quotidien. Gérez vos devis, factures et finances avec une facilité déconcertante, gagnez un temps précieux et obtenez une vision claire de votre trésorerie. Prêt à transformer votre gestion administrative ? Cliquez ici pour en savoir plus !"
   }
 }
