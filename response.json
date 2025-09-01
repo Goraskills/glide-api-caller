@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "FlowCompta : Votre Assistant Financier Intelligent",
-  "slogan": "La gestion financière simplifiée, pour que vous puissiez vous concentrer sur l'essentiel.",
-  "description": "Découvrez FlowCompta, la solution tout-en-un conçue spécifiquement pour les freelances et TPE/PME désireux de maîtriser leur gestion administrative sans effort. Notre plateforme transforme la complexité des devis, factures et suivi bancaire en une expérience fluide et automatisée. Gagnez un temps précieux, obtenez une vision claire de votre trésorerie en temps réel et simplifiez la collaboration avec votre expert-comptable, pour une sérénité financière retrouvée.",
+  "nom_marketing": "GérezMieux Pro : Votre Assistant Financier Intelligent",
+  "slogan": "Simplifiez votre gestion, décuplez votre productivité.",
+  "description": "Marre des tracasseries administratives ? GérezMieux Pro est la solution conçue spécifiquement pour les Freelances et TPE/PME qui veulent reprendre le contrôle de leur temps. Grâce à une automatisation intelligente et un tableau de bord intuitif, gérez devis, factures et finances en toute simplicité, et concentrez-vous enfin sur ce qui compte vraiment : votre croissance.",
   "arguments_cles": [
-    "**Gain de temps immédiat :** Créez devis et factures professionnels en moins d'une minute et libérez-vous des tâches répétitives.",
-    "**Maîtrise financière en temps réel :** Synchronisation bancaire automatique et tableau de bord intuitif pour une vision précise et actualisée de vos finances.",
-    "**Collaboration expert-comptable sans effort :** Exportez tous vos documents en un clic, garantissant conformité et fluidité pour votre expert-comptable."
+    "**Facturation Éclair :** Créez et envoyez vos devis et factures professionnels en moins d'une minute, pour un suivi rapide de vos paiements et une image impeccable.",
+    "**Finances en Autopilot :** Bénéficiez d'une synchronisation bancaire automatique pour une vue précise et en temps réel de votre trésorerie, éliminant toute saisie manuelle.",
+    "**Décisions Stratégiques Facilitées :** Accédez à un tableau de bord financier intuitif, vous offrant des insights clairs pour piloter votre activité avec assurance et préparer votre comptabilité sans effort."
   ],
   "email_promo": {
-    "objet": "Révolutionnez votre gestion financière avec FlowCompta !",
-    "corps": "Chers entrepreneurs, marre de la paperasse et des tracas administratifs ? Découvrez FlowCompta, la solution intelligente qui simplifie votre quotidien. Gérez vos devis, factures et finances avec une facilité déconcertante, gagnez un temps précieux et obtenez une vision claire de votre trésorerie. Prêt à transformer votre gestion administrative ? Cliquez ici pour en savoir plus !"
+    "objet": "Adieu le stress administratif : Découvrez GérezMieux Pro !",
+    "corps": "Cher(e) entrepreneur(e), vous rêvez d'une gestion administrative simplifiée et efficace ? GérezMieux Pro est la solution que vous attendiez. Créez vos documents en un clin d'œil, suivez vos finances en temps réel et préparez votre comptabilité sans effort. Libérez-vous des tâches répétitives pour vous concentrer pleinement sur votre cœur de métier. Prêt à transformer votre quotidien ?"
   }
 }
