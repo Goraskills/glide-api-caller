@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "ComptaSimple : La Gestion Financière Réinventée pour Freelances & TPE/PME",
-  "slogan": "Votre Comptabilité, Enfin Simple et Intuitive.",
-  "description": "ComptaSimple est l'outil indispensable pour les freelances et TPE/PME désireux de maîtriser leur gestion administrative sans tracas. Oubliez la complexité : générez devis et factures en un clin d'œil, suivez votre trésorerie en temps réel grâce à la synchronisation bancaire automatique. Gagnez un temps précieux et concentrez-vous pleinement sur votre activité principale, tandis que ComptaSimple s'occupe de vos chiffres avec une efficacité redoutable.",
+  "nom_marketing": "Gora : L'Assistant Financier Intelligent pour Indépendants et PME",
+  "slogan": "Simplifiez votre gestion, optimisez votre temps.",
+  "description": "Conçue spécifiquement pour les freelances et TPE/PME, Gora est la plateforme intuitive qui transforme votre gestion financière en un processus simple et rapide. Fini le stress des papiers et des calculs : suivez vos finances en temps réel, automatisez vos tâches et consacrez votre énergie à faire grandir votre entreprise.",
   "arguments_cles": [
-    "**Rapidité Inégalée** : Créez des devis et factures professionnels en moins d'une minute, optimisant votre productivité et l'image de votre entreprise.",
-    "**Contrôle Total en Temps Réel** : Bénéficiez d'une synchronisation bancaire automatique et d'un tableau de bord financier intuitif pour une vision claire et constante de votre trésorerie.",
-    "**Collaboration Expert-Comptable Simplifiée** : Exportez tous vos documents comptables en un seul clic, garantissant une transmission fluide, rapide et sans erreur à votre expert-comptable."
+    "**Gagnez un temps précieux** : Créez devis et factures professionnels en moins d'une minute, et soyez payé plus rapidement.",
+    "**Visibilité financière complète** : Synchronisation bancaire automatique et tableau de bord en temps réel pour une maîtrise parfaite de votre trésorerie.",
+    "**Collaboration expert-comptable simplifiée** : Exportez tous vos documents en un clic, garantissant une préparation comptable rapide et sans erreur."
   ],
   "email_promo": {
-    "objet": "Découvrez ComptaSimple : Votre Gestion Financière n'a Jamais Été Aussi Facile !",
-    "corps": "Fatigué(e) des casse-têtes administratifs ? ComptaSimple révolutionne la gestion pour freelances et TPE/PME. Créez devis et factures en un éclair, suivez vos finances en temps réel et simplifiez vos échanges avec votre expert-comptable. Gagnez en sérénité et en efficacité dès aujourd'hui. Essayez ComptaSimple et reprenez le contrôle de votre temps !"
+    "objet": "Gora : Révolutionnez votre gestion financière et gagnez du temps !",
+    "corps": "Découvrez Gora, la solution innovante conçue pour les freelances et TPE/PME qui souhaitent dire adieu aux tracas administratifs. Avec Gora, créez vos devis et factures en un éclair, suivez vos finances en temps réel et simplifiez la collaboration avec votre expert-comptable. Profitez d'une gestion plus fluide et retrouvez du temps pour votre activité."
   }
 }
