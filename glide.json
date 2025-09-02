@@ -2,8 +2,7 @@
     {
         "kind": "column",
         "name": "GitHub Webhook Trigger",
-        "description": "Sends JSON data to a GitHub repo to trigger a webhook.
-        By Goraskills",
+        "description": "Sends JSON data to a GitHub repo to trigger a webhook. By Gora'skills",
         "author": "Goraskills",
         "params": [
             { "name": "jsonData", "displayName": "JSON Data", "type": "string" },
