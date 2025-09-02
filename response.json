@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Mango Pro : Votre Assistant Financier Intelligent",
-  "slogan": "Mango : Vos finances, enfin sous contrôle, sans effort.",
-  "description": "Découvrez Mango, la solution ultime conçue pour les freelances et TPE/PME qui aspirent à une gestion administrative sans tracas. Oubliez les heures perdues en paperasse : générez devis et factures en un clin d'œil, suivez vos flux financiers en temps réel et préparez l'export comptable d'un simple clic. Avec Mango, reprenez le contrôle de vos finances pour vous concentrer pleinement sur ce qui compte vraiment : le développement de votre activité.",
+  "nom_marketing": "Tomato PRO : Votre Partenaire Financier Simplifié",
+  "slogan": "La gestion financière qui vous rend maître de votre temps.",
+  "description": "Tomato PRO est la solution intuitive et puissante, conçue spécifiquement pour les freelances et TPE/PME désireux de transformer leur gestion administrative. Oubliez la complexité et les tâches chronophages : créez devis et factures en un éclair, suivez vos finances en temps réel et collaborez sans effort avec votre expert-comptable. Libérez votre potentiel et concentrez-vous enfin sur l'essentiel : la croissance de votre activité.",
   "arguments_cles": [
-    "Gagnez un temps précieux : Créez devis et factures professionnels en moins d'une minute, et impressionnez vos clients par votre réactivité.",
-    "Gardez une vision claire de vos flux : Grâce à la synchronisation bancaire automatique et un tableau de bord en temps réel, vos finances sont toujours à jour et sous contrôle.",
-    "Simplifiez votre comptabilité : Exportez tous vos documents pour votre expert-comptable en un seul clic, rendant la collaboration fluide et sans stress."
+    "**Gain de Temps Inégalé** : Générez devis et factures professionnels en moins d'une minute, optimisant chaque instant précieux de votre journée.",
+    "**Maîtrise Financière en Temps Réel** : Synchronisation bancaire automatique et tableau de bord interactif pour une vision claire et instantanée de votre trésorerie, à tout moment.",
+    "**Export Comptable Simplifié** : Partagez tous vos documents avec votre expert-comptable en un seul clic, garantissant une collaboration fluide et sans erreur."
   ],
   "email_promo": {
-    "objet": "Libérez-vous de l'administratif : Découvrez Mango, votre allié financier !",
-    "corps": "Chers entrepreneurs, fatigués par la complexité de la gestion administrative ? Nous avons la solution ! Découvrez Mango, l'application intuitive qui transforme la création de devis, la facturation et le suivi financier en un jeu d'enfant. Profitez d'une vision en temps réel de vos finances et d'une préparation comptable simplifiée, pour que vous puissiez vous concentrer sur la croissance de votre entreprise."
+    "objet": "🚀 Lancez-vous avec Tomato PRO : La gestion financière n'a jamais été aussi simple !",
+    "corps": "Cher(e) entrepreneur(e), vous rêvez d'une gestion administrative fluide et sans tracas ? Découvrez Tomato PRO, la solution révolutionnaire conçue pour les freelances et TPE/PME ! Créez devis et factures en un clin d'œil, synchronisez vos comptes bancaires automatiquement et suivez vos finances en temps réel. Libérez-vous des contraintes administratives et consacrez votre énergie à ce qui compte vraiment : le développement de votre entreprise."
   }
 }
