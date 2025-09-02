@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "TOrangina Pro : Votre Allié pour une Gestion Financière Simplifiée",
-  "slogan": "Libérez-vous de l'administratif, concentrez-vous sur votre croissance.",
-  "description": "Marre de la paperasse et des heures perdues en gestion ? TOrangina Pro est la solution intuitive et puissante conçue spécifiquement pour les freelances et TPE/PME. Automatisez vos devis, factures et synchronisations bancaires, suivez vos finances en temps réel et simplifiez vos échanges avec votre expert-comptable pour une tranquillité d'esprit retrouvée.",
+  "nom_marketing": "ComptaZen Pro",
+  "slogan": "La gestion financière simplifiée, votre sérénité assurée.",
+  "description": "ComptaZen Pro est l'outil indispensable pour les freelances et TPE/PME qui aspirent à une gestion administrative et financière sans effort. De la création ultra-rapide de devis et factures à la synchronisation bancaire automatique, notre solution met toutes vos données financières à portée de main, en temps réel. Simplifiez vos échanges avec votre expert-comptable et retrouvez la sérénité pour vous concentrer pleinement sur la croissance de votre entreprise.",
   "arguments_cles": [
-    "Productivité record : Générez devis et factures professionnels en moins d'une minute, accélérant ainsi vos encaissements et votre flux de travail.",
-    "Visibilité totale, en temps réel : Grâce à la synchronisation bancaire automatique et un tableau de bord intuitif, ayez toujours une vue d'ensemble précise de votre trésorerie.",
-    "Collaboration comptable simplifiée : Exportez tous les documents nécessaires à votre expert-comptable en un seul clic, transformant la clôture de bilan en une formalité rapide et sans stress."
+    "**Gain de temps immédiat** : Créez vos devis et factures professionnels en moins d'une minute et envoyez-les directement, pour une gestion administrative fluide et rapide.",
+    "**Vision financière 360° en temps réel** : Synchronisez automatiquement vos comptes bancaires et accédez à un tableau de bord clair pour piloter vos finances avec précision, sans effort.",
+    "**Collaboration expert-comptable simplifiée** : Exportez tous vos documents et rapports financiers en un clic, garantissant une transmission impeccable et sans stress pour votre expert-comptable."
   ],
   "email_promo": {
-    "objet": "Annonce : Révolutionnez votre gestion financière avec TOrangina Pro !",
-    "corps": "Chers professionnels indépendants et dirigeants de TPE/PME, l'heure est venue de dire adieu à la complexité administrative. Découvrez TOrangina Pro, l'outil intelligent qui automatise vos tâches récurrentes, vous offre une visibilité financière en temps réel et simplifie drastiquement vos échanges comptables. Concentrez-vous enfin sur le cœur de votre métier, TOrangina Pro s'occupe du reste."
+    "objet": "Révolutionnez votre gestion financière avec ComptaZen Pro !",
+    "corps": "Fini le casse-tête administratif ! Découvrez ComptaZen Pro, la solution intuitive conçue pour les freelances et TPE/PME qui veulent maîtriser leurs finances sans effort. Créez vos devis et factures en un éclair, suivez vos flux bancaires en temps réel et facilitez le travail de votre expert-comptable. Libérez un temps précieux et concentrez-vous enfin sur le développement de votre activité grâce à une gestion simplifiée et efficace."
   }
 }
