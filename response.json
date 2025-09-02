@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "GérezMieux Pro : Votre Assistant Financier Intelligent",
-  "slogan": "Simplifiez votre gestion, décuplez votre productivité.",
-  "description": "Marre des tracasseries administratives ? GérezMieux Pro est la solution conçue spécifiquement pour les Freelances et TPE/PME qui veulent reprendre le contrôle de leur temps. Grâce à une automatisation intelligente et un tableau de bord intuitif, gérez devis, factures et finances en toute simplicité, et concentrez-vous enfin sur ce qui compte vraiment : votre croissance.",
+  "nom_marketing": "Orange Pro : Votre Solution de Gestion Administrative Intégrale",
+  "slogan": "Simplifiez, Gérez, Réussissez : L'administratif n'est plus un frein.",
+  "description": "Orange Pro est l'outil intuitif et puissant conçu spécifiquement pour les freelances et TPE/PME qui aspirent à une gestion administrative sans effort. Oubliez la paperasse complexe et les longues heures de saisie : créez vos devis et factures en un clin d'œil, bénéficiez d'une visibilité financière en temps réel et préparez votre comptabilité en toute sérénité. Concentrez-vous enfin sur l'essentiel : le développement et la croissance de votre activité.",
   "arguments_cles": [
-    "**Facturation Éclair :** Créez et envoyez vos devis et factures professionnels en moins d'une minute, pour un suivi rapide de vos paiements et une image impeccable.",
-    "**Finances en Autopilot :** Bénéficiez d'une synchronisation bancaire automatique pour une vue précise et en temps réel de votre trésorerie, éliminant toute saisie manuelle.",
-    "**Décisions Stratégiques Facilitées :** Accédez à un tableau de bord financier intuitif, vous offrant des insights clairs pour piloter votre activité avec assurance et préparer votre comptabilité sans effort."
+    "**Gain de temps immédiat :** Créez devis et factures professionnels en moins d'une minute, boostant ainsi votre réactivité.",
+    "**Vision financière complète :** Suivez vos flux bancaires et votre trésorerie en temps réel grâce à la synchronisation automatique et un tableau de bord clair.",
+    "**Comptabilité simplifiée :** Facilitez la vie de votre expert-comptable en exportant tous vos documents essentiels en un seul clic."
   ],
   "email_promo": {
-    "objet": "Adieu le stress administratif : Découvrez GérezMieux Pro !",
-    "corps": "Cher(e) entrepreneur(e), vous rêvez d'une gestion administrative simplifiée et efficace ? GérezMieux Pro est la solution que vous attendiez. Créez vos documents en un clin d'œil, suivez vos finances en temps réel et préparez votre comptabilité sans effort. Libérez-vous des tâches répétitives pour vous concentrer pleinement sur votre cœur de métier. Prêt à transformer votre quotidien ?"
+    "objet": "🚀 Simplifiez votre gestion administrative avec Orange Pro et gagnez un temps précieux !",
+    "corps": "Chers entrepreneurs, marre de perdre votre temps avec l'administratif ? Découvrez Orange Pro, la solution complète et intuitive qui transforme la gestion de votre entreprise. Créez vos documents essentiels en un éclair, suivez vos finances en direct et préparez votre comptabilité sans le moindre stress. Libérez-vous des tâches répétitives et concentrez-vous sur ce qui compte vraiment : développer votre business. Prêt à révolutionner votre quotidien ?"
   }
 }
