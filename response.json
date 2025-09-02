@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "ComptaZen Pro",
-  "slogan": "La gestion financière simplifiée, votre sérénité assurée.",
-  "description": "ComptaZen Pro est l'outil indispensable pour les freelances et TPE/PME qui aspirent à une gestion administrative et financière sans effort. De la création ultra-rapide de devis et factures à la synchronisation bancaire automatique, notre solution met toutes vos données financières à portée de main, en temps réel. Simplifiez vos échanges avec votre expert-comptable et retrouvez la sérénité pour vous concentrer pleinement sur la croissance de votre entreprise.",
+  "nom_marketing": "Terango 2 : Votre Partenaire Expert en Gestion Financière Simplifiée",
+  "slogan": "Gérez, Facturez, Prospérez. Sans effort.",
+  "description": "Terango 2 est la solution intuitive et puissante conçue pour les freelances et TPE/PME, qui transforme la complexité de la gestion administrative en une simplicité déconcertante. Dites adieu aux tâches chronophages et concentrez-vous sur l'essentiel : développer votre activité avec une vision claire et en temps réel de vos finances. C'est l'outil indispensable pour une administration maîtrisée et une croissance sereine.",
   "arguments_cles": [
-    "**Gain de temps immédiat** : Créez vos devis et factures professionnels en moins d'une minute et envoyez-les directement, pour une gestion administrative fluide et rapide.",
-    "**Vision financière 360° en temps réel** : Synchronisez automatiquement vos comptes bancaires et accédez à un tableau de bord clair pour piloter vos finances avec précision, sans effort.",
-    "**Collaboration expert-comptable simplifiée** : Exportez tous vos documents et rapports financiers en un clic, garantissant une transmission impeccable et sans stress pour votre expert-comptable."
+    "**Gain de temps immédiat** : Créez devis et factures en moins d'une minute, libérant ainsi un temps précieux pour vos clients et votre stratégie.",
+    "**Vision financière en temps réel** : Bénéficiez d'une synchronisation bancaire automatique et d'un tableau de bord dynamique pour une maîtrise totale de votre trésorerie, à tout moment.",
+    "**Comptabilité simplifiée** : Facilitez la vie de votre expert-comptable grâce à l'export de tous vos documents en un clic, garantissant des clôtures sereines et sans stress."
   ],
   "email_promo": {
-    "objet": "Révolutionnez votre gestion financière avec ComptaZen Pro !",
-    "corps": "Fini le casse-tête administratif ! Découvrez ComptaZen Pro, la solution intuitive conçue pour les freelances et TPE/PME qui veulent maîtriser leurs finances sans effort. Créez vos devis et factures en un éclair, suivez vos flux bancaires en temps réel et facilitez le travail de votre expert-comptable. Libérez un temps précieux et concentrez-vous enfin sur le développement de votre activité grâce à une gestion simplifiée et efficace."
+    "objet": "Découvrez Terango 2 : La Révolution pour une Gestion Financière Sans Accroc !",
+    "corps": "Chers entrepreneurs, fatigués par la paperasse et les chiffres ? Terango 2 est là pour vous. Conçu pour les freelances et TPE/PME, notre solution vous permet de gérer vos devis et factures en un clin d'œil, de suivre vos finances en temps réel grâce à la synchronisation bancaire automatique, et de simplifier drastiquement votre comptabilité. Libérez-vous des contraintes administratives et redécouvrez le plaisir de vous concentrer sur votre cœur de métier. Prêt à transformer votre gestion ?"
   }
 }
