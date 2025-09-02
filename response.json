@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Tomato PRO : Votre Partenaire Financier Simplifié",
-  "slogan": "La gestion financière qui vous rend maître de votre temps.",
-  "description": "Tomato PRO est la solution intuitive et puissante, conçue spécifiquement pour les freelances et TPE/PME désireux de transformer leur gestion administrative. Oubliez la complexité et les tâches chronophages : créez devis et factures en un éclair, suivez vos finances en temps réel et collaborez sans effort avec votre expert-comptable. Libérez votre potentiel et concentrez-vous enfin sur l'essentiel : la croissance de votre activité.",
+  "nom_marketing": "TOrangina Pro : Votre Allié pour une Gestion Financière Simplifiée",
+  "slogan": "Libérez-vous de l'administratif, concentrez-vous sur votre croissance.",
+  "description": "Marre de la paperasse et des heures perdues en gestion ? TOrangina Pro est la solution intuitive et puissante conçue spécifiquement pour les freelances et TPE/PME. Automatisez vos devis, factures et synchronisations bancaires, suivez vos finances en temps réel et simplifiez vos échanges avec votre expert-comptable pour une tranquillité d'esprit retrouvée.",
   "arguments_cles": [
-    "**Gain de Temps Inégalé** : Générez devis et factures professionnels en moins d'une minute, optimisant chaque instant précieux de votre journée.",
-    "**Maîtrise Financière en Temps Réel** : Synchronisation bancaire automatique et tableau de bord interactif pour une vision claire et instantanée de votre trésorerie, à tout moment.",
-    "**Export Comptable Simplifié** : Partagez tous vos documents avec votre expert-comptable en un seul clic, garantissant une collaboration fluide et sans erreur."
+    "Productivité record : Générez devis et factures professionnels en moins d'une minute, accélérant ainsi vos encaissements et votre flux de travail.",
+    "Visibilité totale, en temps réel : Grâce à la synchronisation bancaire automatique et un tableau de bord intuitif, ayez toujours une vue d'ensemble précise de votre trésorerie.",
+    "Collaboration comptable simplifiée : Exportez tous les documents nécessaires à votre expert-comptable en un seul clic, transformant la clôture de bilan en une formalité rapide et sans stress."
   ],
   "email_promo": {
-    "objet": "🚀 Lancez-vous avec Tomato PRO : La gestion financière n'a jamais été aussi simple !",
-    "corps": "Cher(e) entrepreneur(e), vous rêvez d'une gestion administrative fluide et sans tracas ? Découvrez Tomato PRO, la solution révolutionnaire conçue pour les freelances et TPE/PME ! Créez devis et factures en un clin d'œil, synchronisez vos comptes bancaires automatiquement et suivez vos finances en temps réel. Libérez-vous des contraintes administratives et consacrez votre énergie à ce qui compte vraiment : le développement de votre entreprise."
+    "objet": "Annonce : Révolutionnez votre gestion financière avec TOrangina Pro !",
+    "corps": "Chers professionnels indépendants et dirigeants de TPE/PME, l'heure est venue de dire adieu à la complexité administrative. Découvrez TOrangina Pro, l'outil intelligent qui automatise vos tâches récurrentes, vous offre une visibilité financière en temps réel et simplifie drastiquement vos échanges comptables. Concentrez-vous enfin sur le cœur de votre métier, TOrangina Pro s'occupe du reste."
   }
 }
