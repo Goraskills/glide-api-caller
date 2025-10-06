@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Diotali CertiClick",
-  "slogan": "L'authenticité numérique, un clic suffit.",
-  "description": "Découvrez Diotali CertiClick, la solution innovante pour centraliser, accéder et partager toutes vos attestations numériques avec une simplicité inégalée. Oubliez la gestion complexe des documents papier : avec CertiClick, vos preuves officielles sont toujours à portée de main, sécurisées et instantanément vérifiables. Simplifiez votre quotidien administratif dès aujourd'hui.",
+  "nom_marketing": "DocuFetch Pro : Récupération PDF Intelligente",
+  "slogan": "Vos PDFs, récupérés sans effort. Votre temps, libéré.",
+  "description": "DocuFetch Pro révolutionne la manière dont vous accédez et gérez vos documents PDF en ligne. Notre solution intelligente automatise la récupération de fichiers depuis n'importe quelle URL, vous assurant un accès constant et à jour à l'information cruciale. Gagnez en productivité et concentrez-vous sur l'analyse, pas sur la recherche.",
   "arguments_cles": [
-    "Accès Universel & Instantané : Récupérez vos attestations PDF en toute autonomie, à tout moment et depuis n'importe quel appareil, grâce à un lien sécurisé et personnel.",
-    "Sécurité et Authenticité Validées : Chaque document est protégé par une technologie de pointe garantissant son intégrité et sa non-falsification, pour une fiabilité absolue.",
-    "Gestion Simplifiée et Zéro Papier : Centralisez l'ensemble de vos justificatifs numériques et libérez-vous des contraintes administratives grâce à une interface intuitive et efficace."
+    "**Automatisation Intelligente** : Configurez des tâches de récupération récurrentes et laissez DocuFetch Pro collecter vos PDFs sans intervention manuelle.",
+    "**Fiabilité Inégalée** : Accédez à une base de données de documents toujours à jour, sans liens brisés ni informations obsolètes, grâce à notre moteur de veille avancé.",
+    "**Intégration Facile** : S'intègre parfaitement à vos workflows existants, offrant une flexibilité maximale pour la gestion et l'analyse de vos données PDF."
   ],
   "email_promo": {
-    "objet": "Révolutionnez vos démarches : Vos Attestations Numériques en 1 Clic avec Diotali CertiClick !",
-    "corps": "Fini la paperasse et les recherches interminables ! Diotali CertiClick vous offre une gestion fluide et sécurisée de toutes vos attestations numériques. Accédez à vos documents officiels instantanément, partagez-les en toute confiance et simplifiez radicalement votre vie administrative. Découvrez comment Diotali CertiClick transforme la gestion de vos preuves digitales."
+    "objet": "Découvrez DocuFetch Pro : Révolutionnez Votre Gestion de Documents PDF",
+    "corps": "Nous sommes ravis de vous présenter DocuFetch Pro, la solution qui transforme la récupération de vos documents PDF en une tâche simple et entièrement automatisée. Libérez un temps précieux et assurez-vous que vos équipes ont toujours accès aux informations les plus récentes, sans effort. Prêt à optimiser votre gestion documentaire ?"
   }
 }
