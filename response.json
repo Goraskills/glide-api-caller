@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Diotali Attest Secure : La Vérification d'Attestations Réinventée",
-  "slogan": "Authenticité Garantie, Accès Instantané.",
-  "description": "Découvrez Diotali Attest Secure, la solution révolutionnaire qui transforme la gestion et la vérification de vos attestations. Fini les doutes et les démarches fastidieuses : accédez instantanément à vos documents officiels, certifiés et sécurisés, d'un simple clic. Offrez-vous la tranquillité d'esprit avec une authenticité garantie et une accessibilité inégalée.",
+  "nom_marketing": "CaptureDoc™ - L'Extracteur PDF Intelligent",
+  "slogan": "Votre contenu PDF, instantanément à portée de main.",
+  "description": "CaptureDoc™ révolutionne la manière dont vous accédez aux documents PDF en ligne. Fini les recherches fastidieuses et les liens brisés : notre solution intelligente récupère vos fichiers avec une rapidité et une précision inégalées. Profitez d'une expérience fluide et sécurisée pour toutes vos nécessités de documentation, du web à votre bureau.",
   "arguments_cles": [
-    "Vérification d'Authenticité Infaillible : Chaque attestation est cryptographiquement signée pour une preuve indéniable et une confiance absolue.",
-    "Accès Instantané et Ultra-Sécurisé : Récupérez vos documents officiels en un clic, à tout moment et depuis n'importe où, avec une protection des données de pointe.",
-    "Simplification Administrative : Dites adieu aux démarches complexes grâce à une interface intuitive et un processus de récupération optimisé pour gagner du temps."
+    "Récupération ultra-rapide et fiable de tout PDF accessible via une URL.",
+    "Interface utilisateur intuitive, conçue pour une efficacité maximale sans aucune compétence technique requise.",
+    "Extraction sécurisée préservant l'intégrité de vos documents et la confidentialité de vos données."
   ],
   "email_promo": {
-    "objet": "Vos attestations, plus sûres et accessibles que jamais avec Diotali Attest Secure !",
-    "corps": "Nous sommes ravis de vous présenter Diotali Attest Secure, notre nouvelle solution conçue pour vous offrir un accès instantané et une vérification infaillible de toutes vos attestations. Simplifiez votre quotidien, renforcez votre confiance et assurez l'authenticité de chaque document en toute sérénité."
+    "objet": "Nouveauté : Dites adieu aux tracas de la récupération PDF avec CaptureDoc™ !",
+    "corps": "Nous sommes ravis de vous présenter CaptureDoc™, la solution révolutionnaire pour accéder instantanément à tous vos documents PDF en ligne. Oubliez les recherches interminables et les frustrations : avec CaptureDoc™, vos PDF sont à portée de clic, de manière rapide, sécurisée et intuitive. Essayez-le dès aujourd'hui et transformez votre gestion documentaire !"
   }
 }
