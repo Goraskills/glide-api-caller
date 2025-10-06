@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "PDFConnect Pro : L'Assistant Ultime pour vos Documents",
-  "slogan": "Vos PDF, instantanément à portée de main.",
-  "description": "Fatigué de chercher vos documents importants ? PDFConnect Pro révolutionne la manière dont vous accédez et gérez vos fichiers PDF. Obtenez instantanément les informations dont vous avez besoin, quand vous en avez besoin, pour une productivité et une efficacité sans précédent.",
+  "nom_marketing": "Diotali CertiClick",
+  "slogan": "L'authenticité numérique, un clic suffit.",
+  "description": "Découvrez Diotali CertiClick, la solution innovante pour centraliser, accéder et partager toutes vos attestations numériques avec une simplicité inégalée. Oubliez la gestion complexe des documents papier : avec CertiClick, vos preuves officielles sont toujours à portée de main, sécurisées et instantanément vérifiables. Simplifiez votre quotidien administratif dès aujourd'hui.",
   "arguments_cles": [
-    "Accès instantané : Récupérez n'importe quel PDF en quelques secondes, peu importe sa source ou son emplacement.",
-    "Interface utilisateur intuitive : Naviguez et trouvez vos documents sans effort grâce à une conception épurée et pensée pour vous.",
-    "Gestion intelligente : Organisez, classez et archivez vos PDF automatiquement, garantissant une organisation impeccable et un gain de temps considérable."
+    "Accès Universel & Instantané : Récupérez vos attestations PDF en toute autonomie, à tout moment et depuis n'importe quel appareil, grâce à un lien sécurisé et personnel.",
+    "Sécurité et Authenticité Validées : Chaque document est protégé par une technologie de pointe garantissant son intégrité et sa non-falsification, pour une fiabilité absolue.",
+    "Gestion Simplifiée et Zéro Papier : Centralisez l'ensemble de vos justificatifs numériques et libérez-vous des contraintes administratives grâce à une interface intuitive et efficace."
   ],
   "email_promo": {
-    "objet": "Découvrez PDFConnect Pro : Accédez à vos PDF comme jamais auparavant !",
-    "corps": "Nous sommes ravis de vous présenter PDFConnect Pro, la solution ultime pour simplifier l'accès et la gestion de tous vos documents PDF. Fini les recherches interminables : notre plateforme innovante vous assure un accès rapide et une organisation parfaite, libérant ainsi votre temps pour ce qui compte vraiment. Essayez-le dès aujourd'hui et transformez votre gestion documentaire !"
+    "objet": "Révolutionnez vos démarches : Vos Attestations Numériques en 1 Clic avec Diotali CertiClick !",
+    "corps": "Fini la paperasse et les recherches interminables ! Diotali CertiClick vous offre une gestion fluide et sécurisée de toutes vos attestations numériques. Accédez à vos documents officiels instantanément, partagez-les en toute confiance et simplifiez radicalement votre vie administrative. Découvrez comment Diotali CertiClick transforme la gestion de vos preuves digitales."
   }
 }
