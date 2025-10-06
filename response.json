@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "DocuFetch Pro : Récupération PDF Intelligente",
-  "slogan": "Vos PDFs, récupérés sans effort. Votre temps, libéré.",
-  "description": "DocuFetch Pro révolutionne la manière dont vous accédez et gérez vos documents PDF en ligne. Notre solution intelligente automatise la récupération de fichiers depuis n'importe quelle URL, vous assurant un accès constant et à jour à l'information cruciale. Gagnez en productivité et concentrez-vous sur l'analyse, pas sur la recherche.",
+  "nom_marketing": "Diotali Attestation Connect Pro",
+  "slogan": "La preuve numérique à portée de main, simplifiée et sécurisée.",
+  "description": "Oubliez la complexité de la gestion documentaire. Diotali Attestation Connect Pro est la solution ultime pour générer, partager et vérifier vos attestations officielles en toute simplicité et sécurité. Profitez d'une tranquillité d'esprit totale grâce à des documents infalsifiables et accessibles à tout moment.",
   "arguments_cles": [
-    "**Automatisation Intelligente** : Configurez des tâches de récupération récurrentes et laissez DocuFetch Pro collecter vos PDFs sans intervention manuelle.",
-    "**Fiabilité Inégalée** : Accédez à une base de données de documents toujours à jour, sans liens brisés ni informations obsolètes, grâce à notre moteur de veille avancé.",
-    "**Intégration Facile** : S'intègre parfaitement à vos workflows existants, offrant une flexibilité maximale pour la gestion et l'analyse de vos données PDF."
+    "Accès Instantané & Universel : Retrouvez et partagez vos attestations où que vous soyez, depuis n'importe quel appareil, grâce à un lien sécurisé et unique.",
+    "Sécurité & Authenticité Inégalées : Chaque attestation est générée avec des technologies de cryptographie avancées, garantissant son intégrité et sa reconnaissance officielle.",
+    "Simplicité Révolutionnaire : Dites adieu à la paperasse. Notre interface intuitive transforme la gestion de vos documents officiels en un processus fluide et rapide."
   ],
   "email_promo": {
-    "objet": "Découvrez DocuFetch Pro : Révolutionnez Votre Gestion de Documents PDF",
-    "corps": "Nous sommes ravis de vous présenter DocuFetch Pro, la solution qui transforme la récupération de vos documents PDF en une tâche simple et entièrement automatisée. Libérez un temps précieux et assurez-vous que vos équipes ont toujours accès aux informations les plus récentes, sans effort. Prêt à optimiser votre gestion documentaire ?"
+    "objet": "Révolutionnez vos attestations : Découvrez Diotali Attestation Connect Pro !",
+    "corps": "Nous sommes fiers de vous dévoiler Diotali Attestation Connect Pro, la plateforme qui réinvente la gestion de vos documents officiels. Bénéficiez d'une solution rapide, sécurisée et d'une simplicité enfantine pour toutes vos attestations. Ne manquez pas cette opportunité de digitaliser et sécuriser votre quotidien administratif."
   }
 }
