@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Terango4 : Votre Partenaire pour une Gestion Administrative Simplifiée",
-  "slogan": "Gérez vos finances, retrouvez votre temps.",
-  "description": "Terango4 est la solution tout-en-un indispensable pour les freelances et TPE/PME qui souhaitent transformer leur gestion administrative. Créez devis et factures en un éclair, suivez vos finances en temps réel grâce à la synchronisation bancaire automatique et préparez vos documents pour l'expert-comptable sans aucun effort. Libérez-vous des tâches chronophages pour vous concentrer pleinement sur le développement de votre activité.",
+  "nom_marketing": "DocuFetch AI : Maîtrisez vos Documents Numériques",
+  "slogan": "Votre passerelle intelligente vers l'information PDF en ligne.",
+  "description": "Découvrez DocuFetch AI, la solution révolutionnaire qui extrait instantanément n'importe quel PDF du web, simplifiant ainsi votre processus de collecte de données. Finie la recherche manuelle fastidieuse : notre plateforme centralise vos documents, les rendant facilement accessibles et prêts pour l'analyse. Gagnez un temps précieux et transformez l'information brute en décisions stratégiques éclairées.",
   "arguments_cles": [
-    "**Facturation Éclair :** Générez et envoyez vos devis et factures professionnelles en moins d'une minute, optimisant votre trésorerie et votre image.",
-    "**Finances Sous Contrôle :** Bénéficiez d'une visibilité complète sur votre santé financière grâce à la synchronisation bancaire automatique et un tableau de bord intuitif en temps réel.",
-    "**Comptabilité Simplifiée :** Facilitez la collaboration avec votre expert-comptable en exportant tous les documents nécessaires en un seul clic, transformant la corvée mensuelle en une simple formalité."
+    "Extraction instantanée : Récupérez des PDF de n'importe quelle URL en un clic, sans effort manuel.",
+    "Centralisation intelligente : Organisez et archivez automatiquement tous vos documents dans un espace sécurisé et facilement consultable.",
+    "Préparation à l'analyse avancée : Le point de départ idéal pour vos outils d'OCR, d'analyse sémantique ou de traitement de données."
   ],
   "email_promo": {
-    "objet": "🚀 Découvrez Terango4 : La Révolution de votre Gestion Financière !",
-    "corps": "Chers entrepreneurs, marre de la paperasse et des heures perdues en gestion administrative ? Nous avons la solution qu'il vous faut ! Découvrez Terango4, l'outil conçu pour simplifier radicalement votre quotidien. Facturez en un éclair, suivez vos finances en temps réel et collaborez sans effort avec votre expert-comptable. Cliquez pour libérer votre temps précieux et dynamiser votre entreprise dès aujourd'hui !"
+    "objet": "Libérez-vous de la chasse aux PDF : Découvrez DocuFetch AI !",
+    "corps": "Nous sommes ravis de vous présenter DocuFetch AI, la nouvelle référence pour une gestion de documents simplifiée. Dites adieu aux téléchargements répétitifs et aux classements fastidieux. Avec DocuFetch AI, vos PDF sont à portée de main, prêts à être exploités. Découvrez comment notre solution peut transformer votre productivité dès aujourd'hui !"
   }
 }
