@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "PDF-EZ : Votre Assistant de Récupération Intelligent",
-  "slogan": "Dites adieu aux tracas, bonjour aux PDFs instantanés.",
-  "description": "PDF-EZ est la solution ultime pour récupérer, organiser et accéder instantanément à tous vos documents PDF. Conçu pour maximiser votre productivité, cet assistant intelligent transforme la tâche fastidieuse de la recherche de PDFs en une expérience fluide et sans effort, vous offrant un contrôle total sur votre bibliothèque numérique.",
+  "nom_marketing": "Diotali Carte Brune Numérique : Votre Attestation Simplifiée",
+  "slogan": "L'accès instantané à votre preuve d'assurance, partout, tout le temps.",
+  "description": "Révolutionnez la gestion de vos documents officiels avec la Carte Brune Numérique de Diotali. Oubliez l'attente et le papier : accédez instantanément à votre attestation d'assurance au format PDF, directement depuis notre plateforme sécurisée. Une solution moderne, rapide et fiable pour une tranquillité d'esprit garantie.",
   "arguments_cles": [
-    "Récupération ultra-rapide par URL : Transformez n'importe quelle page web ou lien direct en un document PDF prêt à l'emploi en quelques secondes, assurant un accès immédiat à l'information essentielle.",
-    "Organisation simplifiée et centralisée : Gérez efficacement tous vos PDFs récupérés au sein d'une interface intuitive, facilitant le classement, la recherche et le partage de vos documents importants.",
-    "Compatibilité universelle et sécurité : Bénéficiez d'une solution robuste compatible avec tous les navigateurs et systèmes, garantissant que vos données sont toujours accessibles et sécurisées lors de chaque extraction."
+    "Accès immédiat et sécurisé : Téléchargez votre Carte Brune officielle en un clic, à tout moment.",
+    "Zéro papier, zéro tracas : Gérez vos attestations de manière écologique et évitez la perte de documents.",
+    "Toujours à jour : Votre preuve d'assurance est toujours la dernière version, prête à être présentée."
   ],
   "email_promo": {
-    "objet": "[NOUVEAU] PDF-EZ : Récupérez et Maîtrisez vos PDFs comme jamais auparavant !",
-    "corps": "Fatigué de chasser vos documents PDF sur le web ? Dites bonjour à PDF-EZ ! Notre nouvelle solution révolutionnaire simplifie la récupération et la gestion de vos PDFs, vous permettant de transformer n'importe quelle URL en un document prêt à l'emploi en un clin d'œil. Ne perdez plus une minute, gagnez en efficacité dès aujourd'hui !"
+    "objet": "[Exclusif Diotali] Votre nouvelle Carte Brune Numérique est disponible !",
+    "corps": "Cher(e) client(e), bonne nouvelle ! Diotali simplifie la gestion de vos attestations. Votre Carte Brune est désormais disponible en version numérique et téléchargeable instantanément au format PDF. Gagnez du temps, protégez l'environnement et ayez toujours votre preuve d'assurance à portée de main. Découvrez la simplicité et la sécurité dès maintenant !"
   }
 }
