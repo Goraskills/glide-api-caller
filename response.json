@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Diotali AttestFlow : L'Expertise de vos Attestations Dématerialisées",
-  "slogan": "Vos attestations, une fluidité numérique simplifiée.",
-  "description": "Découvrez Diotali AttestFlow, la solution innovante qui révolutionne la gestion de vos attestations dématérialisées. Accédez, sécurisez et organisez toutes vos preuves de conformité en un instant, libérant votre entreprise des contraintes administratives. Optimisez votre productivité et garantissez une traçabilité impeccable, où que vous soyez.",
+  "nom_marketing": "Diotali Attest Pro : Votre Certification Numérique en Toute Sérénité",
+  "slogan": "Certifiez l'essentiel, sécurisez l'avenir.",
+  "description": "Découvrez Diotali Attest Pro, la solution innovante pour la gestion et la délivrance de vos attestations et certificats numériques. Simplifiez vos démarches administratives et professionnelles grâce à une plateforme sécurisée, garantissant l'authenticité et l'intégrité de chaque document. Accédez instantanément à vos attestations vérifiées, où que vous soyez, pour une tranquillité d'esprit inégalée.",
   "arguments_cles": [
-    "Accès instantané et sécurisé à toutes vos attestations via un URL unique, éliminant les recherches fastidieuses.",
-    "Automatisation complète de la récupération et de l'archivage de vos documents, assurant une conformité réglementaire sans faille.",
-    "Centralisation intuitive de l'ensemble de vos attestations, offrant une vision claire et une gestion simplifiée de vos engagements."
+    "Authenticité et Intégrité Garantie : Chaque attestation est scellée numériquement pour une vérification infalsifiable.",
+    "Accès Instantané Partout : Vos documents sont accessibles 24/7 via un lien sécurisé unique, facilitant le partage et la consultation.",
+    "Simplicité et Écologie : Dites adieu à la paperasse et aux délais postaux, optez pour une gestion numérique fluide et respectueuse de l'environnement."
   ],
   "email_promo": {
-    "objet": "Lancez-vous dans l'efficacité : Découvrez Diotali AttestFlow !",
-    "corps": "Chers partenaires, nous sommes fiers de vous présenter Diotali AttestFlow, la nouvelle référence en matière de gestion d'attestations dématérialisées. Fini le stress des documents manquants ou des validations complexes ! Notre solution intuitive vous permet d'accéder, de sécuriser et d'organiser toutes vos preuves de conformité en un clin d'œil. Ne manquez pas cette opportunité de transformer votre productivité."
+    "objet": "Découvrez Diotali Attest Pro : Vos Attestations Numériques Enfin Sécurisées et Accessibles !",
+    "corps": "Nous sommes ravis de vous présenter Diotali Attest Pro, la nouvelle référence pour la gestion et la délivrance d'attestations numériques. Conçue pour simplifier vos démarches, garantir l'authenticité de vos documents et vous offrir un accès instantané, notre plateforme transforme la manière dont vous interagissez avec vos certifications importantes. Prêt à faire le pas vers l'efficacité numérique ?"
   }
 }
