@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Terango4 : L'Assistant Financier Intelligent pour Freelances et TPE/PME",
-  "slogan": "La gestion financière simplifiée. Votre succès, accéléré.",
-  "description": "Terango4 est la solution tout-en-un conçue pour les freelances et TPE/PME désireux de maîtriser leur gestion administrative et financière sans effort. Créez devis et factures en un clin d'œil, suivez vos flux financiers en temps réel grâce à la synchronisation bancaire automatique, et simplifiez la collaboration avec votre expert-comptable. Concentrez-vous sur le développement de votre activité, Terango4 s'occupe du reste avec efficacité et sérénité.",
+  "nom_marketing": "PDF-EZ : Votre Assistant de Récupération Intelligent",
+  "slogan": "Dites adieu aux tracas, bonjour aux PDFs instantanés.",
+  "description": "PDF-EZ est la solution ultime pour récupérer, organiser et accéder instantanément à tous vos documents PDF. Conçu pour maximiser votre productivité, cet assistant intelligent transforme la tâche fastidieuse de la recherche de PDFs en une expérience fluide et sans effort, vous offrant un contrôle total sur votre bibliothèque numérique.",
   "arguments_cles": [
-    "Productivité maximale : Créez des devis et factures professionnels en moins d'une minute, pour un envoi immédiat et un suivi des paiements optimisé.",
-    "Vision financière en temps réel : Grâce à la synchronisation bancaire automatique et un tableau de bord intuitif, ayez toujours une vue précise et actualisée de votre trésorerie.",
-    "Comptabilité zéro stress : Exportez l'ensemble de vos documents comptables pour votre expert-comptable en un seul clic, simplifiant ainsi la préparation de vos bilans."
+    "Récupération ultra-rapide par URL : Transformez n'importe quelle page web ou lien direct en un document PDF prêt à l'emploi en quelques secondes, assurant un accès immédiat à l'information essentielle.",
+    "Organisation simplifiée et centralisée : Gérez efficacement tous vos PDFs récupérés au sein d'une interface intuitive, facilitant le classement, la recherche et le partage de vos documents importants.",
+    "Compatibilité universelle et sécurité : Bénéficiez d'une solution robuste compatible avec tous les navigateurs et systèmes, garantissant que vos données sont toujours accessibles et sécurisées lors de chaque extraction."
   ],
   "email_promo": {
-    "objet": "Découvrez Terango4 : Vos finances sous contrôle, votre temps retrouvé !",
-    "corps": "Nous sommes ravis de vous présenter Terango4, la solution tout-en-un conçue pour transformer la gestion administrative des freelances et TPE/PME. Oubliez les tracas : créez devis et factures en un clin d'œil, suivez vos finances en temps réel et simplifiez votre comptabilité. Préparez-vous à libérer un temps précieux pour ce qui compte vraiment : le développement de votre activité."
+    "objet": "[NOUVEAU] PDF-EZ : Récupérez et Maîtrisez vos PDFs comme jamais auparavant !",
+    "corps": "Fatigué de chasser vos documents PDF sur le web ? Dites bonjour à PDF-EZ ! Notre nouvelle solution révolutionnaire simplifie la récupération et la gestion de vos PDFs, vous permettant de transformer n'importe quelle URL en un document prêt à l'emploi en un clin d'œil. Ne perdez plus une minute, gagnez en efficacité dès aujourd'hui !"
   }
 }
