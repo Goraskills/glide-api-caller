@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Terango 2 : Votre Partenaire Expert en Gestion Financière Simplifiée",
-  "slogan": "Gérez, Facturez, Prospérez. Sans effort.",
-  "description": "Terango 2 est la solution intuitive et puissante conçue pour les freelances et TPE/PME, qui transforme la complexité de la gestion administrative en une simplicité déconcertante. Dites adieu aux tâches chronophages et concentrez-vous sur l'essentiel : développer votre activité avec une vision claire et en temps réel de vos finances. C'est l'outil indispensable pour une administration maîtrisée et une croissance sereine.",
+  "nom_marketing": "Diotali e-Attest : Votre Preuve en un Clic",
+  "slogan": "Vos attestations numériques, accessibles instantanément, partout.",
+  "description": "Fatigué des tracas administratifs et des recherches interminables de documents ? Diotali e-Attest révolutionne la gestion de vos attestations en vous offrant un accès instantané et sécurisé à toutes vos preuves numériques. Téléchargez et partagez vos documents officiels au format PDF avec une simplicité inégalée, vous libérant ainsi un temps précieux pour ce qui compte vraiment.",
   "arguments_cles": [
-    "**Gain de temps immédiat** : Créez devis et factures en moins d'une minute, libérant ainsi un temps précieux pour vos clients et votre stratégie.",
-    "**Vision financière en temps réel** : Bénéficiez d'une synchronisation bancaire automatique et d'un tableau de bord dynamique pour une maîtrise totale de votre trésorerie, à tout moment.",
-    "**Comptabilité simplifiée** : Facilitez la vie de votre expert-comptable grâce à l'export de tous vos documents en un clic, garantissant des clôtures sereines et sans stress."
+    "Téléchargement Instantané : Accédez et téléchargez vos attestations au format PDF en un seul clic, où que vous soyez.",
+    "Sécurité et Authenticité Garanties : Chaque attestation est sécurisée et traçable via un identifiant unique, assurant la validité et l'intégrité de vos documents officiels.",
+    "Simplification Administrative : Dites adieu aux démarches complexes. Diotali e-Attest fluidifie la gestion de toutes vos preuves numériques, vous faisant gagner un temps précieux."
   ],
   "email_promo": {
-    "objet": "Découvrez Terango 2 : La Révolution pour une Gestion Financière Sans Accroc !",
-    "corps": "Chers entrepreneurs, fatigués par la paperasse et les chiffres ? Terango 2 est là pour vous. Conçu pour les freelances et TPE/PME, notre solution vous permet de gérer vos devis et factures en un clin d'œil, de suivre vos finances en temps réel grâce à la synchronisation bancaire automatique, et de simplifier drastiquement votre comptabilité. Libérez-vous des contraintes administratives et redécouvrez le plaisir de vous concentrer sur votre cœur de métier. Prêt à transformer votre gestion ?"
+    "objet": "🚨 Nouveau : Gérez vos attestations en un clin d'œil avec Diotali e-Attest !",
+    "corps": "Chers utilisateurs, nous sommes ravis de vous présenter Diotali e-Attest, la solution révolutionnaire pour accéder et gérer toutes vos attestations numériques. Oubliez les recherches fastidieuses et les formalités complexes : avec notre nouvelle plateforme, vos documents officiels sont à portée de main, disponibles en PDF instantanément et en toute sécurité. Découvrez la simplicité et gagnez un temps précieux dès aujourd'hui !"
   }
 }
