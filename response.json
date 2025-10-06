@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Diotali Attestations Instantanées : Votre Preuve Numérique de Confiance",
-  "slogan": "Accédez, Vérifiez, Partagez : La Sérénité de vos Attestations en un Clic.",
-  "description": "Découvrez Diotali, la solution révolutionnaire pour accéder et vérifier vos attestations importantes en toute simplicité. Fini le stress des documents égarés ou la suspicion de falsification : notre plateforme sécurisée vous offre une preuve numérique irréfutable, accessible partout et à tout moment. Offrez à vos partenaires et clients une confiance absolue grâce à des attestations authentifiées en un éclair.",
+  "nom_marketing": "Diotali PreuveNumérique : Accès Instantané à Vos Justificatifs",
+  "slogan": "Vos preuves essentielles, accessibles en un instant.",
+  "description": "Découvrez Diotali PreuveNumérique, la solution ultime pour accéder et gérer vos attestations et documents officiels avec une facilité inégalée. Fini les recherches fastidieuses ou les délais d'attente : vos justificatifs sont désormais disponibles instantanément et en toute sécurité, où que vous soyez. Simplifiez vos démarches administratives et ayez toujours la preuve de ce qui compte, à portée de clic.",
   "arguments_cles": [
-    "Accès Instantané & Universel : Récupérez vos attestations en un seul clic via un lien sécurisé, 24h/24, 7j/7, depuis n'importe quel appareil.",
-    "Authenticité Infaillible : Chaque attestation est générée et stockée sur une infrastructure robuste, garantissant son intégrité et sa non-falsification.",
-    "Vérification Simplifiée : Partagez vos preuves numériques en toute confiance et permettez une validation rapide et aisée par vos interlocuteurs, renforçant la fiabilité de vos démarches."
+    "Accès immédiat et sécurisé : Consultez et téléchargez toutes vos attestations numériques via une URL unique, à tout moment.",
+    "Simplicité d'utilisation : Gérez et partagez vos justificatifs essentiels en quelques clics, sans contrainte de temps ou de lieu.",
+    "Authenticité garantie : Bénéficiez de la fiabilité de la plateforme Diotali, assurant la validité et la conformité de vos documents."
   ],
   "email_promo": {
-    "objet": "Nouveau : Gérez et Vérifiez vos Attestations en un Instant avec Diotali !",
-    "corps": "Chers utilisateurs, Dites adieu aux tracas administratifs ! Nous sommes ravis de vous présenter Diotali Attestations Instantanées, notre nouvelle solution qui révolutionne la gestion de vos documents. Accédez et vérifiez vos attestations essentielles en un clin d'œil, en toute sécurité, et offrez à vos partenaires une preuve numérique fiable et instantanée."
+    "objet": "Accédez à vos Attestations Diotali Instantanément et en Toute Sécurité !",
+    "corps": "Découvrez Diotali PreuveNumérique, la solution révolutionnaire pour accéder et gérer toutes vos attestations officielles avec une simplicité déconcertante. Dites adieu aux tracas administratifs : vos documents sont désormais disponibles en un clic, partout et à tout moment, garantissant sécurité et authenticité. Prêt à simplifier votre vie ? Accédez à vos preuves essentielles sans attendre !"
   }
 }
