@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "DocuFetch AI : Maîtrisez vos Documents Numériques",
-  "slogan": "Votre passerelle intelligente vers l'information PDF en ligne.",
-  "description": "Découvrez DocuFetch AI, la solution révolutionnaire qui extrait instantanément n'importe quel PDF du web, simplifiant ainsi votre processus de collecte de données. Finie la recherche manuelle fastidieuse : notre plateforme centralise vos documents, les rendant facilement accessibles et prêts pour l'analyse. Gagnez un temps précieux et transformez l'information brute en décisions stratégiques éclairées.",
+  "nom_marketing": "Diotali Attestations Instantanées : Votre Preuve Numérique de Confiance",
+  "slogan": "Accédez, Vérifiez, Partagez : La Sérénité de vos Attestations en un Clic.",
+  "description": "Découvrez Diotali, la solution révolutionnaire pour accéder et vérifier vos attestations importantes en toute simplicité. Fini le stress des documents égarés ou la suspicion de falsification : notre plateforme sécurisée vous offre une preuve numérique irréfutable, accessible partout et à tout moment. Offrez à vos partenaires et clients une confiance absolue grâce à des attestations authentifiées en un éclair.",
   "arguments_cles": [
-    "Extraction instantanée : Récupérez des PDF de n'importe quelle URL en un clic, sans effort manuel.",
-    "Centralisation intelligente : Organisez et archivez automatiquement tous vos documents dans un espace sécurisé et facilement consultable.",
-    "Préparation à l'analyse avancée : Le point de départ idéal pour vos outils d'OCR, d'analyse sémantique ou de traitement de données."
+    "Accès Instantané & Universel : Récupérez vos attestations en un seul clic via un lien sécurisé, 24h/24, 7j/7, depuis n'importe quel appareil.",
+    "Authenticité Infaillible : Chaque attestation est générée et stockée sur une infrastructure robuste, garantissant son intégrité et sa non-falsification.",
+    "Vérification Simplifiée : Partagez vos preuves numériques en toute confiance et permettez une validation rapide et aisée par vos interlocuteurs, renforçant la fiabilité de vos démarches."
   ],
   "email_promo": {
-    "objet": "Libérez-vous de la chasse aux PDF : Découvrez DocuFetch AI !",
-    "corps": "Nous sommes ravis de vous présenter DocuFetch AI, la nouvelle référence pour une gestion de documents simplifiée. Dites adieu aux téléchargements répétitifs et aux classements fastidieux. Avec DocuFetch AI, vos PDF sont à portée de main, prêts à être exploités. Découvrez comment notre solution peut transformer votre productivité dès aujourd'hui !"
+    "objet": "Nouveau : Gérez et Vérifiez vos Attestations en un Instant avec Diotali !",
+    "corps": "Chers utilisateurs, Dites adieu aux tracas administratifs ! Nous sommes ravis de vous présenter Diotali Attestations Instantanées, notre nouvelle solution qui révolutionne la gestion de vos documents. Accédez et vérifiez vos attestations essentielles en un clin d'œil, en toute sécurité, et offrez à vos partenaires une preuve numérique fiable et instantanée."
   }
 }
