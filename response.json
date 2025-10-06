@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Diotali CertiLink : La Preuve Simplifiée",
-  "slogan": "La confiance numérique, simplifiée.",
-  "description": "Diotali CertiLink révolutionne la gestion de vos attestations et documents officiels. Accédez instantanément et en toute sécurité à toutes vos preuves numériques, où que vous soyez. Simplifiez vos démarches administratives et renforcez la confiance dans l'authenticité de vos documents, pour une tranquillité d'esprit inégalée.",
+  "nom_marketing": "Diotali Connect : Votre Attestation Numérique Sécurisée et Instantanée",
+  "slogan": "La Preuve Incontestable, À Portée de Clic.",
+  "description": "Découvrez Diotali Connect, la solution révolutionnaire pour la gestion et la vérification de vos attestations numériques. Oubliez les tracas administratifs et les risques de falsification grâce à notre plateforme sécurisée qui garantit l'authenticité de chaque document. Offrez à vos destinataires une preuve infalsifiable, accessible instantanément et partout, renforçant ainsi la confiance et l'efficacité de vos échanges.",
   "arguments_cles": [
-    "Accès instantané à vos attestations cruciales via un lien sécurisé.",
-    "Authenticité garantie par un système de vérification numérique robuste.",
-    "Gestion et partage simplifiés, éliminant la paperasse et les délais."
+    "Génération instantanée de PDF d'attestation sécurisés et infalsifiables.",
+    "Vérification d'authenticité simplifiée via un lien unique, garantissant la fiabilité du document.",
+    "Accès permanent et sécurisé à toutes vos preuves numériques, éliminant le besoin de gestion papier."
   ],
   "email_promo": {
-    "objet": "Simplifiez vos attestations : Diotali CertiLink est là !",
-    "corps": "Découvrez Diotali CertiLink, la solution innovante pour gérer et partager toutes vos attestations numériques avec une facilité et une sécurité inégalées. Finie l'attente, finis les tracas administratifs : vos preuves essentielles sont désormais accessibles en un instant, où et quand vous en avez besoin. Lancez-vous dès aujourd'hui et transformez votre gestion documentaire !"
+    "objet": "Révolutionnez vos attestations : Sécurité et Instantanéité avec Diotali Connect !",
+    "corps": "Nous sommes ravis de vous présenter Diotali Connect, la nouvelle référence en matière de gestion d'attestations numériques. Simplifiez vos démarches, protégez vos documents de la falsification et offrez une preuve de confiance à vos partenaires grâce à notre solution innovante. Cliquez ici pour découvrir comment transformer la gestion de vos preuves numériques."
   }
 }
