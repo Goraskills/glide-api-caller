@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Diotali | CertiProof™ : Votre Attestation Numérique Instantanée",
-  "slogan": "La preuve de confiance, instantanément et sans effort.",
-  "description": "Découvrez Diotali CertiProof™, la solution révolutionnaire pour accéder et partager vos attestations numériques en toute simplicité. Fini le stress des démarches administratives complexes : obtenez vos documents officiels au format PDF sécurisé, instantanément, et présentez une preuve de confiance irréfutable à vos partenaires. Optimisez votre temps et assurez votre conformité avec une efficacité inégalée.",
+  "nom_marketing": "PDFConnect Pro : L'Assistant Ultime pour vos Documents",
+  "slogan": "Vos PDF, instantanément à portée de main.",
+  "description": "Fatigué de chercher vos documents importants ? PDFConnect Pro révolutionne la manière dont vous accédez et gérez vos fichiers PDF. Obtenez instantanément les informations dont vous avez besoin, quand vous en avez besoin, pour une productivité et une efficacité sans précédent.",
   "arguments_cles": [
-    "Accès instantané et sécurisé : Récupérez vos attestations officielles au format PDF en un seul clic, où que vous soyez.",
-    "Authenticité certifiée : Chaque document est vérifié et infalsifiable, vous offrant une preuve de confiance absolue pour toutes vos démarches.",
-    "Gestion simplifiée et partage facile : Une interface intuitive pour organiser et diffuser vos documents sans effort, où et quand vous en avez besoin."
+    "Accès instantané : Récupérez n'importe quel PDF en quelques secondes, peu importe sa source ou son emplacement.",
+    "Interface utilisateur intuitive : Naviguez et trouvez vos documents sans effort grâce à une conception épurée et pensée pour vous.",
+    "Gestion intelligente : Organisez, classez et archivez vos PDF automatiquement, garantissant une organisation impeccable et un gain de temps considérable."
   ],
   "email_promo": {
-    "objet": "🚀 Vos Attestations Numériques en un Clic : Découvrez Diotali CertiProof™ !",
-    "corps": "Fatigué des tracasseries administratives ? Diotali CertiProof™ est là pour révolutionner la gestion de vos attestations. Accédez instantanément à vos documents PDF sécurisés, certifiés et prêts à être partagés. Gagnez du temps, assurez votre conformité et bénéficiez d'une tranquillité d'esprit inégalée dès aujourd'hui."
+    "objet": "Découvrez PDFConnect Pro : Accédez à vos PDF comme jamais auparavant !",
+    "corps": "Nous sommes ravis de vous présenter PDFConnect Pro, la solution ultime pour simplifier l'accès et la gestion de tous vos documents PDF. Fini les recherches interminables : notre plateforme innovante vous assure un accès rapide et une organisation parfaite, libérant ainsi votre temps pour ce qui compte vraiment. Essayez-le dès aujourd'hui et transformez votre gestion documentaire !"
   }
 }
