@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Diotali e-Attest : Votre Preuve en un Clic",
-  "slogan": "Vos attestations numériques, accessibles instantanément, partout.",
-  "description": "Fatigué des tracas administratifs et des recherches interminables de documents ? Diotali e-Attest révolutionne la gestion de vos attestations en vous offrant un accès instantané et sécurisé à toutes vos preuves numériques. Téléchargez et partagez vos documents officiels au format PDF avec une simplicité inégalée, vous libérant ainsi un temps précieux pour ce qui compte vraiment.",
+  "nom_marketing": "Diotali Attestation Pro : Votre Preuve Numérique Infaillible",
+  "slogan": "Sécurité, authenticité, accessibilité : la nouvelle ère de vos documents officiels.",
+  "description": "Diotali Attestation Pro révolutionne la gestion de vos preuves numériques. Obtenez et vérifiez instantanément des attestations sécurisées, infalsifiables, et toujours accessibles. Simplifiez vos démarches administratives et professionnelles avec une solution alliant technologie de pointe et fiabilité inégalée.",
   "arguments_cles": [
-    "Téléchargement Instantané : Accédez et téléchargez vos attestations au format PDF en un seul clic, où que vous soyez.",
-    "Sécurité et Authenticité Garanties : Chaque attestation est sécurisée et traçable via un identifiant unique, assurant la validité et l'intégrité de vos documents officiels.",
-    "Simplification Administrative : Dites adieu aux démarches complexes. Diotali e-Attest fluidifie la gestion de toutes vos preuves numériques, vous faisant gagner un temps précieux."
+    "Authenticité Infaillible : Chaque attestation est dotée d'un numéro de série unique (ex: SN003JFHHU0) et d'une signature numérique robuste, garantissant son origine et son intégrité contre toute falsification.",
+    "Accès Instantané & Sécurisé : Accédez et téléchargez vos preuves numériques au format PDF en un clic via une URL dédiée, offrant une disponibilité 24/7 et une protection optimale de vos données.",
+    "Processus Simplifié & Gain de Temps : Éliminez les délais et la complexité des documents physiques. La gestion et la vérification de vos attestations n'ont jamais été aussi rapides et efficaces."
   ],
   "email_promo": {
-    "objet": "🚨 Nouveau : Gérez vos attestations en un clin d'œil avec Diotali e-Attest !",
-    "corps": "Chers utilisateurs, nous sommes ravis de vous présenter Diotali e-Attest, la solution révolutionnaire pour accéder et gérer toutes vos attestations numériques. Oubliez les recherches fastidieuses et les formalités complexes : avec notre nouvelle plateforme, vos documents officiels sont à portée de main, disponibles en PDF instantanément et en toute sécurité. Découvrez la simplicité et gagnez un temps précieux dès aujourd'hui !"
+    "objet": "Découvrez Diotali Attestation Pro : Vos Preuves Numériques enfin Sécurisées et Simples !",
+    "corps": "Nous sommes ravis de vous présenter Diotali Attestation Pro, la solution innovante pour gérer et vérifier toutes vos attestations numériques avec une sécurité et une simplicité inégalées. Fini le papier et les doutes, place à l'authenticité garantie et à un accès instantané. Explorez la nouvelle dimension de la confiance numérique dès aujourd'hui."
   }
 }
