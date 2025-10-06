@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "PDFLink Automate",
-  "slogan": "Transformez chaque lien en un document instantanément accessible.",
-  "description": "Découvrez PDFLink Automate, l'outil révolutionnaire qui simplifie l'extraction et la gestion de vos documents PDF. Fini le téléchargement manuel fastidieux : accédez à vos contenus critiques avec une efficacité et une fiabilité sans précédent, directement à partir de n'importe quelle URL. Gagnez un temps précieux et optimisez vos flux de travail documentaires dès aujourd'hui.",
+  "nom_marketing": "Diotali e-Attest Pro : La Révolution de l'Attestation Numérique",
+  "slogan": "Sécurité, Simplicité, Instantanéité : Vos Attestations à Portée de Main.",
+  "description": "Découvrez Diotali e-Attest Pro, votre passerelle vers une gestion dématérialisée et sécurisée de toutes vos attestations officielles. Notre solution révolutionnaire vous assure un accès instantané et infalsifiable à vos documents PDF essentiels, transformant la complexité administrative en une expérience fluide et fiable. Gagnez du temps et de la sérénité en centralisant et vérifiant l'authenticité de vos attestations en toute simplicité.",
   "arguments_cles": [
-    "Extraction automatique et fiable de PDF à partir de n'importe quelle URL, pour une collecte de données sans effort.",
-    "Optimisez l'archivage et la gestion de vos documents grâce à une solution intelligente et entièrement automatisée.",
-    "Intégration fluide dans vos systèmes existants, garantissant un accès instantané et sécurisé à vos informations vitales."
+    "Accès Ultime & Sécurisé : Récupérez instantanément vos attestations PDF officielles via des liens uniques et protégés, garantissant confidentialité et rapidité.",
+    "Authenticité Infaillible : Chaque document est certifié et vérifiable, éliminant tout doute sur l'intégrité et la validité de vos attestations numériques.",
+    "Gestion Démultipliée : Centralisez, partagez et archivez vos documents administratifs essentiels avec une efficacité inégalée, pour une productivité optimisée et un contrôle total."
   ],
   "email_promo": {
-    "objet": "Nouveau : Simplifiez radicalement la gestion de vos PDF avec PDFLink Automate !",
-    "corps": "Cher(e) professionnel(le),\n\nFatigué(e) de chasser et de télécharger manuellement vos PDF ? Découvrez PDFLink Automate, notre nouvelle solution conçue pour transformer la façon dont vous accédez et gérez vos documents. En un clic, extrayez n'importe quel PDF depuis une URL, économisez un temps précieux et maintenez vos archives impeccables. Ne manquez pas cette opportunité de booster votre productivité !"
+    "objet": "Révolutionnez la gestion de vos attestations avec Diotali e-Attest Pro !",
+    "corps": "Cher(e) Partenaire, Nous sommes fiers de vous annoncer le lancement de Diotali e-Attest Pro, la solution innovante qui simplifie et sécurise l'accès à toutes vos attestations numériques en format PDF. Dites adieu aux tracas administratifs et découvrez la facilité d'une gestion dématérialisée. Cliquez pour en savoir plus et optimiser dès aujourd'hui vos processus !"
   }
 }
