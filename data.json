@@ -1,4 +1,12 @@
 {
-  "action": "fetchPdf",
-  "url": "https://aas.diotali.com/#/attestation/SN003JFHHU0"
+  "produit": {
+    "nom": "Terango3",
+    "caracteristiques": [
+      "Création de devis et factures en moins d'une minute",
+      "Synchronisation bancaire automatique",
+      "Tableau de bord des finances en temps réel",
+      "Export des documents pour l'expert-comptable en un clic"
+    ],
+    "public_cible": "Freelances et TPE/PME cherchant à simplifier leur gestion administrative"
+  }
 }
