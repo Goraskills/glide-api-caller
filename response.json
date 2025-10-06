@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Diotali | Solution d'Attestations Digitales",
-  "slogan": "Accédez à vos attestations essentielles, instantanément et en toute sécurité.",
-  "description": "Découvrez notre plateforme innovante qui révolutionne la gestion de vos attestations. Diotali vous offre un accès sécurisé et immédiat à tous vos documents officiels en format numérique, éliminant la complexité et les délais. Simplifiez vos démarches administratives et assurez-vous d'avoir toujours une preuve vérifiable à portée de main, où que vous soyez.",
+  "nom_marketing": "Terango4 : L'Assistant Financier Intelligent pour Freelances et TPE/PME",
+  "slogan": "La gestion financière simplifiée. Votre succès, accéléré.",
+  "description": "Terango4 est la solution tout-en-un conçue pour les freelances et TPE/PME désireux de maîtriser leur gestion administrative et financière sans effort. Créez devis et factures en un clin d'œil, suivez vos flux financiers en temps réel grâce à la synchronisation bancaire automatique, et simplifiez la collaboration avec votre expert-comptable. Concentrez-vous sur le développement de votre activité, Terango4 s'occupe du reste avec efficacité et sérénité.",
   "arguments_cles": [
-    "Accès instantané et sécurisé : Récupérez vos attestations au format PDF en un seul clic via un lien unique et protégé.",
-    "Gain de temps et efficacité : Éliminez la paperasse et les délais, obtenez vos preuves numériques sans attente, 24h/24 et 7j/7.",
-    "Authenticité et traçabilité garanties : Chaque attestation est générée avec une référence unique, assurant sa vérifiabilité et sa conformité."
+    "Productivité maximale : Créez des devis et factures professionnels en moins d'une minute, pour un envoi immédiat et un suivi des paiements optimisé.",
+    "Vision financière en temps réel : Grâce à la synchronisation bancaire automatique et un tableau de bord intuitif, ayez toujours une vue précise et actualisée de votre trésorerie.",
+    "Comptabilité zéro stress : Exportez l'ensemble de vos documents comptables pour votre expert-comptable en un seul clic, simplifiant ainsi la préparation de vos bilans."
   ],
   "email_promo": {
-    "objet": "Votre Preuve Numérique est Prête : Accès Instantané avec Diotali !",
-    "corps": "Nous sommes ravis de vous présenter Diotali, la solution qui transforme la manière dont vous accédez à vos attestations essentielles. Fini les recherches interminables : accédez désormais à tous vos documents officiels, sécurisés et vérifiables, directement depuis un lien unique. C'est simple, rapide et entièrement digital. Découvrez la tranquillité d'esprit d'avoir vos preuves à portée de main, à tout moment."
+    "objet": "Découvrez Terango4 : Vos finances sous contrôle, votre temps retrouvé !",
+    "corps": "Nous sommes ravis de vous présenter Terango4, la solution tout-en-un conçue pour transformer la gestion administrative des freelances et TPE/PME. Oubliez les tracas : créez devis et factures en un clin d'œil, suivez vos finances en temps réel et simplifiez votre comptabilité. Préparez-vous à libérer un temps précieux pour ce qui compte vraiment : le développement de votre activité."
   }
 }
