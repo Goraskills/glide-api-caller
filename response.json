@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "PDF Automate : La Solution Intelligente pour vos Documents",
-  "slogan": "Transformez le Web et les Données en PDF, Facilement et Efficacement.",
-  "description": "PDF Automate est la plateforme révolutionnaire qui convertit instantanément n'importe quelle URL ou donnée en un document PDF professionnel et parfaitement formaté. Oubliez les processus manuels fastidieux : notre moteur intelligent garantit une extraction précise et une mise en page impeccable. Optimisez votre productivité et assurez une qualité irréprochable pour toutes vos communications, sans effort.",
+  "nom_marketing": "Diotali | CertiProof™ : Votre Attestation Numérique Instantanée",
+  "slogan": "La preuve de confiance, instantanément et sans effort.",
+  "description": "Découvrez Diotali CertiProof™, la solution révolutionnaire pour accéder et partager vos attestations numériques en toute simplicité. Fini le stress des démarches administratives complexes : obtenez vos documents officiels au format PDF sécurisé, instantanément, et présentez une preuve de confiance irréfutable à vos partenaires. Optimisez votre temps et assurez votre conformité avec une efficacité inégalée.",
   "arguments_cles": [
-    "Conversion Instantanée & Précise : Transformez sans effort n'importe quelle page web ou donnée structurée en un PDF de haute qualité, conservant la mise en page originale.",
-    "Automatisation Intelligente : Gagnez un temps précieux grâce à des workflows automatisés pour la génération et l'archivage de vos documents, sans aucune intervention manuelle.",
-    "Personnalisation Avancée : Adaptez l'apparence de vos PDF (en-têtes, pieds de page, styles) pour refléter parfaitement votre marque et vos besoins spécifiques, en toute simplicité."
+    "Accès instantané et sécurisé : Récupérez vos attestations officielles au format PDF en un seul clic, où que vous soyez.",
+    "Authenticité certifiée : Chaque document est vérifié et infalsifiable, vous offrant une preuve de confiance absolue pour toutes vos démarches.",
+    "Gestion simplifiée et partage facile : Une interface intuitive pour organiser et diffuser vos documents sans effort, où et quand vous en avez besoin."
   ],
   "email_promo": {
-    "objet": "[Lancement Officiel] Révolutionnez Votre Flux de Travail PDF avec PDF Automate !",
-    "corps": "Marre des conversions PDF compliquées et des mises en page chaotiques ? PDF Automate est enfin là pour changer la donne ! Découvrez notre nouvelle solution intelligente qui vous permet de générer, d'extraire et de gérer tous vos documents PDF avec une efficacité et une simplicité inégalées. Préparez-vous à transformer votre productivité et à impressionner vos clients avec des documents professionnels impeccables."
+    "objet": "🚀 Vos Attestations Numériques en un Clic : Découvrez Diotali CertiProof™ !",
+    "corps": "Fatigué des tracasseries administratives ? Diotali CertiProof™ est là pour révolutionner la gestion de vos attestations. Accédez instantanément à vos documents PDF sécurisés, certifiés et prêts à être partagés. Gagnez du temps, assurez votre conformité et bénéficiez d'une tranquillité d'esprit inégalée dès aujourd'hui."
   }
 }
