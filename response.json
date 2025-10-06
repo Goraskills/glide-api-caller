@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Terango 3 : Votre Gestion Financière Réinventée",
-  "slogan": "Simplicité, rapidité, tranquillité d'esprit.",
-  "description": "Terango 3 est la solution intuitive conçue pour les freelances et TPE/PME qui veulent reprendre le contrôle de leur gestion financière. Dites adieu aux tâches administratives chronophages grâce à la création rapide de devis/factures et la synchronisation bancaire automatique. Profitez d'une visibilité en temps réel sur vos finances et simplifiez la collaboration avec votre expert-comptable pour une tranquillité d'esprit inégalée.",
+  "nom_marketing": "Terango4 : Votre Partenaire pour une Gestion Administrative Simplifiée",
+  "slogan": "Gérez vos finances, retrouvez votre temps.",
+  "description": "Terango4 est la solution tout-en-un indispensable pour les freelances et TPE/PME qui souhaitent transformer leur gestion administrative. Créez devis et factures en un éclair, suivez vos finances en temps réel grâce à la synchronisation bancaire automatique et préparez vos documents pour l'expert-comptable sans aucun effort. Libérez-vous des tâches chronophages pour vous concentrer pleinement sur le développement de votre activité.",
   "arguments_cles": [
-    "**Maîtrisez votre facturation en un éclair** : Créez devis et factures en moins d'une minute, et consacrez plus de temps à votre activité principale.",
-    "**Vos finances sous contrôle, 24/7** : Grâce à la synchronisation bancaire automatique et un tableau de bord intuitif, ayez une vision claire de votre trésorerie en temps réel.",
-    "**Simplifiez votre comptabilité** : Exportez tous vos documents pour votre expert-comptable en un seul clic, garantissant une collaboration fluide et sans stress."
+    "**Facturation Éclair :** Générez et envoyez vos devis et factures professionnelles en moins d'une minute, optimisant votre trésorerie et votre image.",
+    "**Finances Sous Contrôle :** Bénéficiez d'une visibilité complète sur votre santé financière grâce à la synchronisation bancaire automatique et un tableau de bord intuitif en temps réel.",
+    "**Comptabilité Simplifiée :** Facilitez la collaboration avec votre expert-comptable en exportant tous les documents nécessaires en un seul clic, transformant la corvée mensuelle en une simple formalité."
   ],
   "email_promo": {
-    "objet": "Libérez votre temps : Votre nouvelle ère de gestion financière commence avec Terango 3 !",
-    "corps": "Chers entrepreneurs, fatigués par la complexité de la gestion administrative ? Découvrez Terango 3, la solution innovante conçue pour simplifier votre quotidien. Créez devis et factures en un temps record, suivez vos finances en temps réel et collaborez sans effort avec votre expert-comptable. Terango 3 est votre partenaire idéal pour une gestion financière intuitive et efficace. Essayez-le dès aujourd'hui et transformez votre façon de travailler !"
+    "objet": "🚀 Découvrez Terango4 : La Révolution de votre Gestion Financière !",
+    "corps": "Chers entrepreneurs, marre de la paperasse et des heures perdues en gestion administrative ? Nous avons la solution qu'il vous faut ! Découvrez Terango4, l'outil conçu pour simplifier radicalement votre quotidien. Facturez en un éclair, suivez vos finances en temps réel et collaborez sans effort avec votre expert-comptable. Cliquez pour libérer votre temps précieux et dynamiser votre entreprise dès aujourd'hui !"
   }
 }
