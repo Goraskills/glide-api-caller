@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Diotali CertiDoc : Votre Preuve Numérique Ultime",
-  "slogan": "L'authenticité garantie, la simplicité assurée.",
-  "description": "Découvrez Diotali CertiDoc, la solution révolutionnaire pour gérer et valider toutes vos attestations officielles en toute simplicité. Fini le stress des documents perdus ou des vérifications complexes : notre plateforme sécurisée vous offre une preuve numérique infalsifiable, accessible partout et à tout moment. Obtenez instantanément vos attestations certifiées et simplifiez vos démarches administratives et professionnelles.",
+  "nom_marketing": "Diotali AttestPro",
+  "slogan": "Vos preuves, instantanément vérifiables. La confiance au bout des doigts.",
+  "description": "Découvrez Diotali AttestPro, la solution innovante qui révolutionne la gestion et la vérification de vos attestations numériques. Notre plateforme intuitive garantit un accès instantané et sécurisé à chaque document, assurant son authenticité et sa traçabilité inaltérable. Simplifiez vos démarches administratives et renforcez la crédibilité de vos preuves, en toute confiance.",
   "arguments_cles": [
-    "Authenticité Garantie : Chaque e-attestation est cryptographiquement signée, assurant son intégrité et son infalsifiabilité.",
-    "Accès Instantané et Sécurisé : Consultez et partagez vos documents officiels 24/7 depuis n'importe quel appareil, avec une sécurité de pointe.",
-    "Validation Simplifiée : Un système de vérification rapide et fiable pour confirmer l'authenticité de vos attestations en un clic."
+    "Accès Ultra-Rapide & Universel : Récupérez et partagez vos attestations en un clic, disponibles 24/7 sur n'importe quel appareil.",
+    "Authenticité Infaillible & Sécurité Maximale : Chaque document est protégé par une signature numérique unique, garantissant son intégrité et prévenant toute falsification.",
+    "Gestion Dématerialisée Intégrale : Éliminez la paperasse, optimisez vos processus et gagnez un temps précieux grâce à une plateforme centralisée et intuitive."
   ],
   "email_promo": {
-    "objet": "Simplifiez vos Preuves Officielles : Découvrez Diotali CertiDoc !",
-    "corps": "Marre de la paperasse et des démarches complexes ? Diotali CertiDoc est là pour transformer la gestion de vos attestations. Profitez d'une solution numérique sécurisée, infalsifiable et accessible instantanément, qui garantit l'authenticité de vos documents officiels. Ne perdez plus de temps, découvrez la simplicité et la sécurité de Diotali CertiDoc dès aujourd'hui."
+    "objet": "Découvrez Diotali AttestPro : Vos attestations, enfin simples et sécurisées !",
+    "corps": "Nous sommes fiers de vous annoncer le lancement de Diotali AttestPro, la solution qui va transformer votre manière de gérer les attestations. Fini les tracas liés aux documents physiques : accédez, partagez et vérifiez vos preuves essentielles instantanément, avec une sécurité inégalée. Adoptez l'avenir de la certification numérique dès aujourd'hui !"
   }
 }
