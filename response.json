@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Diotali Connect : Votre Attestation Numérique Sécurisée et Instantanée",
-  "slogan": "La Preuve Incontestable, À Portée de Clic.",
-  "description": "Découvrez Diotali Connect, la solution révolutionnaire pour la gestion et la vérification de vos attestations numériques. Oubliez les tracas administratifs et les risques de falsification grâce à notre plateforme sécurisée qui garantit l'authenticité de chaque document. Offrez à vos destinataires une preuve infalsifiable, accessible instantanément et partout, renforçant ainsi la confiance et l'efficacité de vos échanges.",
+  "nom_marketing": "Diotali AttestFlow : L'Expertise de vos Attestations Dématerialisées",
+  "slogan": "Vos attestations, une fluidité numérique simplifiée.",
+  "description": "Découvrez Diotali AttestFlow, la solution innovante qui révolutionne la gestion de vos attestations dématérialisées. Accédez, sécurisez et organisez toutes vos preuves de conformité en un instant, libérant votre entreprise des contraintes administratives. Optimisez votre productivité et garantissez une traçabilité impeccable, où que vous soyez.",
   "arguments_cles": [
-    "Génération instantanée de PDF d'attestation sécurisés et infalsifiables.",
-    "Vérification d'authenticité simplifiée via un lien unique, garantissant la fiabilité du document.",
-    "Accès permanent et sécurisé à toutes vos preuves numériques, éliminant le besoin de gestion papier."
+    "Accès instantané et sécurisé à toutes vos attestations via un URL unique, éliminant les recherches fastidieuses.",
+    "Automatisation complète de la récupération et de l'archivage de vos documents, assurant une conformité réglementaire sans faille.",
+    "Centralisation intuitive de l'ensemble de vos attestations, offrant une vision claire et une gestion simplifiée de vos engagements."
   ],
   "email_promo": {
-    "objet": "Révolutionnez vos attestations : Sécurité et Instantanéité avec Diotali Connect !",
-    "corps": "Nous sommes ravis de vous présenter Diotali Connect, la nouvelle référence en matière de gestion d'attestations numériques. Simplifiez vos démarches, protégez vos documents de la falsification et offrez une preuve de confiance à vos partenaires grâce à notre solution innovante. Cliquez ici pour découvrir comment transformer la gestion de vos preuves numériques."
+    "objet": "Lancez-vous dans l'efficacité : Découvrez Diotali AttestFlow !",
+    "corps": "Chers partenaires, nous sommes fiers de vous présenter Diotali AttestFlow, la nouvelle référence en matière de gestion d'attestations dématérialisées. Fini le stress des documents manquants ou des validations complexes ! Notre solution intuitive vous permet d'accéder, de sécuriser et d'organiser toutes vos preuves de conformité en un clin d'œil. Ne manquez pas cette opportunité de transformer votre productivité."
   }
 }
