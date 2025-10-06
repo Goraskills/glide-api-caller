@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Diotali PreuveNumérique : Accès Instantané à Vos Justificatifs",
-  "slogan": "Vos preuves essentielles, accessibles en un instant.",
-  "description": "Découvrez Diotali PreuveNumérique, la solution ultime pour accéder et gérer vos attestations et documents officiels avec une facilité inégalée. Fini les recherches fastidieuses ou les délais d'attente : vos justificatifs sont désormais disponibles instantanément et en toute sécurité, où que vous soyez. Simplifiez vos démarches administratives et ayez toujours la preuve de ce qui compte, à portée de clic.",
+  "nom_marketing": "PDFLink Automate",
+  "slogan": "Transformez chaque lien en un document instantanément accessible.",
+  "description": "Découvrez PDFLink Automate, l'outil révolutionnaire qui simplifie l'extraction et la gestion de vos documents PDF. Fini le téléchargement manuel fastidieux : accédez à vos contenus critiques avec une efficacité et une fiabilité sans précédent, directement à partir de n'importe quelle URL. Gagnez un temps précieux et optimisez vos flux de travail documentaires dès aujourd'hui.",
   "arguments_cles": [
-    "Accès immédiat et sécurisé : Consultez et téléchargez toutes vos attestations numériques via une URL unique, à tout moment.",
-    "Simplicité d'utilisation : Gérez et partagez vos justificatifs essentiels en quelques clics, sans contrainte de temps ou de lieu.",
-    "Authenticité garantie : Bénéficiez de la fiabilité de la plateforme Diotali, assurant la validité et la conformité de vos documents."
+    "Extraction automatique et fiable de PDF à partir de n'importe quelle URL, pour une collecte de données sans effort.",
+    "Optimisez l'archivage et la gestion de vos documents grâce à une solution intelligente et entièrement automatisée.",
+    "Intégration fluide dans vos systèmes existants, garantissant un accès instantané et sécurisé à vos informations vitales."
   ],
   "email_promo": {
-    "objet": "Accédez à vos Attestations Diotali Instantanément et en Toute Sécurité !",
-    "corps": "Découvrez Diotali PreuveNumérique, la solution révolutionnaire pour accéder et gérer toutes vos attestations officielles avec une simplicité déconcertante. Dites adieu aux tracas administratifs : vos documents sont désormais disponibles en un clic, partout et à tout moment, garantissant sécurité et authenticité. Prêt à simplifier votre vie ? Accédez à vos preuves essentielles sans attendre !"
+    "objet": "Nouveau : Simplifiez radicalement la gestion de vos PDF avec PDFLink Automate !",
+    "corps": "Cher(e) professionnel(le),\n\nFatigué(e) de chasser et de télécharger manuellement vos PDF ? Découvrez PDFLink Automate, notre nouvelle solution conçue pour transformer la façon dont vous accédez et gérez vos documents. En un clic, extrayez n'importe quel PDF depuis une URL, économisez un temps précieux et maintenez vos archives impeccables. Ne manquez pas cette opportunité de booster votre productivité !"
   }
 }
