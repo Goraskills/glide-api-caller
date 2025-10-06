@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Diotali Attest Pro : Votre Certification Numérique en Toute Sérénité",
-  "slogan": "Certifiez l'essentiel, sécurisez l'avenir.",
-  "description": "Découvrez Diotali Attest Pro, la solution innovante pour la gestion et la délivrance de vos attestations et certificats numériques. Simplifiez vos démarches administratives et professionnelles grâce à une plateforme sécurisée, garantissant l'authenticité et l'intégrité de chaque document. Accédez instantanément à vos attestations vérifiées, où que vous soyez, pour une tranquillité d'esprit inégalée.",
+  "nom_marketing": "DocuGrab Pro : Votre Assistant PDF Intelligent",
+  "slogan": "Capturez, Organisez, Automatisez. Vos PDFs, sans effort.",
+  "description": "Découvrez DocuGrab Pro, la solution ultime pour automatiser la récupération et l'archivage de documents PDF depuis n'importe quelle URL. Fini le temps perdu à télécharger manuellement : notre outil garantit une collecte de données fiable et sécurisée, transformant des liens web en ressources exploitables en quelques clics. Optimisez votre productivité et assurez une gestion documentaire impeccable pour une efficacité sans précédent.",
   "arguments_cles": [
-    "Authenticité et Intégrité Garantie : Chaque attestation est scellée numériquement pour une vérification infalsifiable.",
-    "Accès Instantané Partout : Vos documents sont accessibles 24/7 via un lien sécurisé unique, facilitant le partage et la consultation.",
-    "Simplicité et Écologie : Dites adieu à la paperasse et aux délais postaux, optez pour une gestion numérique fluide et respectueuse de l'environnement."
+    "Récupération automatique et instantanée de PDF depuis des URLs, garantissant l'accès à vos informations critiques à tout moment.",
+    "Gain de temps considérable et réduction des erreurs grâce à l'automatisation des tâches répétitives de téléchargement et d'archivage.",
+    "Fiabilité inégalée et intégrité des données garanties pour tous vos documents récupérés, assurant une conformité et une sécurité optimales."
   ],
   "email_promo": {
-    "objet": "Découvrez Diotali Attest Pro : Vos Attestations Numériques Enfin Sécurisées et Accessibles !",
-    "corps": "Nous sommes ravis de vous présenter Diotali Attest Pro, la nouvelle référence pour la gestion et la délivrance d'attestations numériques. Conçue pour simplifier vos démarches, garantir l'authenticité de vos documents et vous offrir un accès instantané, notre plateforme transforme la manière dont vous interagissez avec vos certifications importantes. Prêt à faire le pas vers l'efficacité numérique ?"
+    "objet": "🚀 Simplifiez enfin votre gestion PDF avec DocuGrab Pro !",
+    "corps": "Cher professionnel,\n\nNous sommes ravis de vous présenter DocuGrab Pro, la solution innovante conçue pour simplifier radicalement votre collecte et gestion de documents PDF. Oubliez les téléchargements manuels fastidieux ; DocuGrab Pro automatise la récupération et l'organisation de vos PDFs, vous faisant gagner un temps précieux et assurant une précision irréprochable. Prêt à transformer votre gestion documentaire ? Découvrez comment DocuGrab Pro peut optimiser votre productivité et sécuriser vos données dès aujourd'hui."
   }
 }
