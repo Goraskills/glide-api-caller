@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "CaptureDoc™ - L'Extracteur PDF Intelligent",
-  "slogan": "Votre contenu PDF, instantanément à portée de main.",
-  "description": "CaptureDoc™ révolutionne la manière dont vous accédez aux documents PDF en ligne. Fini les recherches fastidieuses et les liens brisés : notre solution intelligente récupère vos fichiers avec une rapidité et une précision inégalées. Profitez d'une expérience fluide et sécurisée pour toutes vos nécessités de documentation, du web à votre bureau.",
+  "nom_marketing": "Diotali CertiLink : La Preuve Simplifiée",
+  "slogan": "La confiance numérique, simplifiée.",
+  "description": "Diotali CertiLink révolutionne la gestion de vos attestations et documents officiels. Accédez instantanément et en toute sécurité à toutes vos preuves numériques, où que vous soyez. Simplifiez vos démarches administratives et renforcez la confiance dans l'authenticité de vos documents, pour une tranquillité d'esprit inégalée.",
   "arguments_cles": [
-    "Récupération ultra-rapide et fiable de tout PDF accessible via une URL.",
-    "Interface utilisateur intuitive, conçue pour une efficacité maximale sans aucune compétence technique requise.",
-    "Extraction sécurisée préservant l'intégrité de vos documents et la confidentialité de vos données."
+    "Accès instantané à vos attestations cruciales via un lien sécurisé.",
+    "Authenticité garantie par un système de vérification numérique robuste.",
+    "Gestion et partage simplifiés, éliminant la paperasse et les délais."
   ],
   "email_promo": {
-    "objet": "Nouveauté : Dites adieu aux tracas de la récupération PDF avec CaptureDoc™ !",
-    "corps": "Nous sommes ravis de vous présenter CaptureDoc™, la solution révolutionnaire pour accéder instantanément à tous vos documents PDF en ligne. Oubliez les recherches interminables et les frustrations : avec CaptureDoc™, vos PDF sont à portée de clic, de manière rapide, sécurisée et intuitive. Essayez-le dès aujourd'hui et transformez votre gestion documentaire !"
+    "objet": "Simplifiez vos attestations : Diotali CertiLink est là !",
+    "corps": "Découvrez Diotali CertiLink, la solution innovante pour gérer et partager toutes vos attestations numériques avec une facilité et une sécurité inégalées. Finie l'attente, finis les tracas administratifs : vos preuves essentielles sont désormais accessibles en un instant, où et quand vous en avez besoin. Lancez-vous dès aujourd'hui et transformez votre gestion documentaire !"
   }
 }
