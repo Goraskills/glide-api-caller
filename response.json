@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "Diotali Carte Brune Numérique : Votre Attestation Simplifiée",
-  "slogan": "L'accès instantané à votre preuve d'assurance, partout, tout le temps.",
-  "description": "Révolutionnez la gestion de vos documents officiels avec la Carte Brune Numérique de Diotali. Oubliez l'attente et le papier : accédez instantanément à votre attestation d'assurance au format PDF, directement depuis notre plateforme sécurisée. Une solution moderne, rapide et fiable pour une tranquillité d'esprit garantie.",
+  "nom_marketing": "Diotali Attest Secure : La Vérification d'Attestations Réinventée",
+  "slogan": "Authenticité Garantie, Accès Instantané.",
+  "description": "Découvrez Diotali Attest Secure, la solution révolutionnaire qui transforme la gestion et la vérification de vos attestations. Fini les doutes et les démarches fastidieuses : accédez instantanément à vos documents officiels, certifiés et sécurisés, d'un simple clic. Offrez-vous la tranquillité d'esprit avec une authenticité garantie et une accessibilité inégalée.",
   "arguments_cles": [
-    "Accès immédiat et sécurisé : Téléchargez votre Carte Brune officielle en un clic, à tout moment.",
-    "Zéro papier, zéro tracas : Gérez vos attestations de manière écologique et évitez la perte de documents.",
-    "Toujours à jour : Votre preuve d'assurance est toujours la dernière version, prête à être présentée."
+    "Vérification d'Authenticité Infaillible : Chaque attestation est cryptographiquement signée pour une preuve indéniable et une confiance absolue.",
+    "Accès Instantané et Ultra-Sécurisé : Récupérez vos documents officiels en un clic, à tout moment et depuis n'importe où, avec une protection des données de pointe.",
+    "Simplification Administrative : Dites adieu aux démarches complexes grâce à une interface intuitive et un processus de récupération optimisé pour gagner du temps."
   ],
   "email_promo": {
-    "objet": "[Exclusif Diotali] Votre nouvelle Carte Brune Numérique est disponible !",
-    "corps": "Cher(e) client(e), bonne nouvelle ! Diotali simplifie la gestion de vos attestations. Votre Carte Brune est désormais disponible en version numérique et téléchargeable instantanément au format PDF. Gagnez du temps, protégez l'environnement et ayez toujours votre preuve d'assurance à portée de main. Découvrez la simplicité et la sécurité dès maintenant !"
+    "objet": "Vos attestations, plus sûres et accessibles que jamais avec Diotali Attest Secure !",
+    "corps": "Nous sommes ravis de vous présenter Diotali Attest Secure, notre nouvelle solution conçue pour vous offrir un accès instantané et une vérification infaillible de toutes vos attestations. Simplifiez votre quotidien, renforcez votre confiance et assurez l'authenticité de chaque document en toute sérénité."
   }
 }
