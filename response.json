@@ -1,14 +1,14 @@
 {
-  "nom_marketing": "DocuGrab Pro : Votre Assistant PDF Intelligent",
-  "slogan": "Capturez, Organisez, Automatisez. Vos PDFs, sans effort.",
-  "description": "Découvrez DocuGrab Pro, la solution ultime pour automatiser la récupération et l'archivage de documents PDF depuis n'importe quelle URL. Fini le temps perdu à télécharger manuellement : notre outil garantit une collecte de données fiable et sécurisée, transformant des liens web en ressources exploitables en quelques clics. Optimisez votre productivité et assurez une gestion documentaire impeccable pour une efficacité sans précédent.",
+  "nom_marketing": "Diotali CertiDoc : Votre Preuve Numérique Ultime",
+  "slogan": "L'authenticité garantie, la simplicité assurée.",
+  "description": "Découvrez Diotali CertiDoc, la solution révolutionnaire pour gérer et valider toutes vos attestations officielles en toute simplicité. Fini le stress des documents perdus ou des vérifications complexes : notre plateforme sécurisée vous offre une preuve numérique infalsifiable, accessible partout et à tout moment. Obtenez instantanément vos attestations certifiées et simplifiez vos démarches administratives et professionnelles.",
   "arguments_cles": [
-    "Récupération automatique et instantanée de PDF depuis des URLs, garantissant l'accès à vos informations critiques à tout moment.",
-    "Gain de temps considérable et réduction des erreurs grâce à l'automatisation des tâches répétitives de téléchargement et d'archivage.",
-    "Fiabilité inégalée et intégrité des données garanties pour tous vos documents récupérés, assurant une conformité et une sécurité optimales."
+    "Authenticité Garantie : Chaque e-attestation est cryptographiquement signée, assurant son intégrité et son infalsifiabilité.",
+    "Accès Instantané et Sécurisé : Consultez et partagez vos documents officiels 24/7 depuis n'importe quel appareil, avec une sécurité de pointe.",
+    "Validation Simplifiée : Un système de vérification rapide et fiable pour confirmer l'authenticité de vos attestations en un clic."
   ],
   "email_promo": {
-    "objet": "🚀 Simplifiez enfin votre gestion PDF avec DocuGrab Pro !",
-    "corps": "Cher professionnel,\n\nNous sommes ravis de vous présenter DocuGrab Pro, la solution innovante conçue pour simplifier radicalement votre collecte et gestion de documents PDF. Oubliez les téléchargements manuels fastidieux ; DocuGrab Pro automatise la récupération et l'organisation de vos PDFs, vous faisant gagner un temps précieux et assurant une précision irréprochable. Prêt à transformer votre gestion documentaire ? Découvrez comment DocuGrab Pro peut optimiser votre productivité et sécuriser vos données dès aujourd'hui."
+    "objet": "Simplifiez vos Preuves Officielles : Découvrez Diotali CertiDoc !",
+    "corps": "Marre de la paperasse et des démarches complexes ? Diotali CertiDoc est là pour transformer la gestion de vos attestations. Profitez d'une solution numérique sécurisée, infalsifiable et accessible instantanément, qui garantit l'authenticité de vos documents officiels. Ne perdez plus de temps, découvrez la simplicité et la sécurité de Diotali CertiDoc dès aujourd'hui."
   }
 }
